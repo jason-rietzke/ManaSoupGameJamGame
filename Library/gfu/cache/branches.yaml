@@ -13,23 +13,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-12-05T16:52:59.552+01:00
-  initializedAtString: 2021-12-05T16:52:59.511+01:00
+  lastUpdatedAtString: 2021-12-05T17:31:02.036+01:00
+  initializedAtString: 2021-12-05T16:37:27.050+01:00
   localBranches:
   - name: Lobby-Code
     tracking: origin/Lobby-Code
   - name: master
     tracking: origin/master
+  - name: PostProcessor
+    tracking: 
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
-  - name: origin/Music-dEMO
-    tracking: '[None]'
   - name: origin/master
+    tracking: '[None]'
+  - name: origin/Music-dEMO
     tracking: '[None]'
   remotes:
   - name: origin
-    url: git@github.com:GreyKuma/ManasoupGameJam.git
+    url: https://github.com/GreyKuma/ManasoupGameJam.git
     login: 
     user: 
     host: 
@@ -39,45 +41,51 @@ MonoBehaviour:
     keys:
     - Lobby-Code
     - master
+    - PostProcessor
     values:
     - name: Lobby-Code
       remote:
         name: origin
-        url: git@github.com:GreyKuma/ManasoupGameJam.git
+        url: https://github.com/GreyKuma/ManasoupGameJam.git
       trackingBranch: Lobby-Code
     - name: master
       remote:
         name: origin
-        url: git@github.com:GreyKuma/ManasoupGameJam.git
+        url: https://github.com/GreyKuma/ManasoupGameJam.git
       trackingBranch: master
+    - name: PostProcessor
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
       - HEAD
-      - Music-dEMO
       - master
+      - Music-dEMO
     subKeyValues:
     - Values:
       - name: HEAD
         remote:
           name: origin
-          url: git@github.com:GreyKuma/ManasoupGameJam.git
-        trackingBranch: 
-      - name: Music-dEMO
-        remote:
-          name: origin
-          url: git@github.com:GreyKuma/ManasoupGameJam.git
+          url: https://github.com/GreyKuma/ManasoupGameJam.git
         trackingBranch: 
       - name: master
         remote:
           name: origin
-          url: git@github.com:GreyKuma/ManasoupGameJam.git
+          url: https://github.com/GreyKuma/ManasoupGameJam.git
+        trackingBranch: 
+      - name: Music-dEMO
+        remote:
+          name: origin
+          url: https://github.com/GreyKuma/ManasoupGameJam.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: git@github.com:GreyKuma/ManasoupGameJam.git
+      url: https://github.com/GreyKuma/ManasoupGameJam.git

@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-12-05T15:13:34.481+01:00
-  initializedAtString: 2021-12-05T15:13:34.481+01:00
+  lastUpdatedAtString: 2021-12-05T17:31:02.007+01:00
+  initializedAtString: 2021-12-05T16:36:48.292+01:00
   currentGitRemote:
     name: origin
-    url: git@github.com:GreyKuma/ManasoupGameJam.git
+    url: https://github.com/GreyKuma/ManasoupGameJam.git
     login: 
     user: 
     host: 
@@ -30,9 +30,9 @@ MonoBehaviour:
     name: master
     remote:
       name: origin
-      url: git@github.com:GreyKuma/ManasoupGameJam.git
+      url: https://github.com/GreyKuma/ManasoupGameJam.git
     trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: git@github.com:GreyKuma/ManasoupGameJam.git
+    url: https://github.com/GreyKuma/ManasoupGameJam.git
   currentHead: 

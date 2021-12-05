@@ -10,19 +10,19 @@ TextureImporter:
     second: SchlafzimmerObjekte_1
   - first:
       213: 736835182445106415
-    second: SchlafzimmerObjekte_2
+    second: Teddy
   - first:
       213: -3855591289337594534
     second: SchlafzimmerObjekte_3
   - first:
       213: 8150543190793034030
-    second: SchlafzimmerObjekte_4
+    second: Brille
   - first:
       213: 3474433728949220972
-    second: SchlafzimmerObjekte_5
+    second: Pillen
   - first:
       213: -8485426031619221393
-    second: SchlafzimmerObjekte_6
+    second: Wolle
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -154,7 +154,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SchlafzimmerObjekte_2
+      name: Teddy
       rect:
         serializedVersion: 2
         x: 703
@@ -196,7 +196,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SchlafzimmerObjekte_4
+      name: Brille
       rect:
         serializedVersion: 2
         x: 1482
@@ -217,7 +217,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SchlafzimmerObjekte_5
+      name: Pillen
       rect:
         serializedVersion: 2
         x: 583
@@ -238,7 +238,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SchlafzimmerObjekte_6
+      name: Wolle
       rect:
         serializedVersion: 2
         x: 1511

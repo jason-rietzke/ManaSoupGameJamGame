@@ -4,10 +4,10 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 746441273070501047
-    second: WohnzimmerObj_0
+    second: Pflanze Lebend
   - first:
       213: 6528537594174244143
-    second: WohnzimmerObj_1
+    second: Spardose
   - first:
       213: 7333114942339428239
     second: WohnzimmerObj_2
@@ -19,25 +19,25 @@ TextureImporter:
     second: WohnzimmerObj_4
   - first:
       213: -4199441379150714077
-    second: WohnzimmerObj_5
+    second: Schiff
   - first:
       213: -6437916874439883966
-    second: WohnzimmerObj_6
+    second: Box
   - first:
       213: 2440077873864425724
     second: WohnzimmerObj_7
   - first:
       213: 897537700207405883
-    second: WohnzimmerObj_8
+    second: Hochzeitsbild
   - first:
       213: -3622580316094411242
-    second: WohnzimmerObj_9
+    second: Zeitung
   - first:
       213: 3486921633222076873
     second: WohnzimmerObj_10
   - first:
       213: -6780820388709133744
-    second: WohnzimmerObj_11
+    second: Penisqualle
   - first:
       213: -1767773138384820180
     second: WohnzimmerObj_12
@@ -46,22 +46,22 @@ TextureImporter:
     second: WohnzimmerObj_13
   - first:
       213: 2148286407487564988
-    second: WohnzimmerObj_14
+    second: Gieskanne
   - first:
       213: 5925984427649751649
-    second: WohnzimmerObj_15
+    second: Schlussel
   - first:
       213: 1819930522433566440
-    second: WohnzimmerObj_16
+    second: Ehering
   - first:
       213: 9109391283709854398
-    second: WohnzimmerObj_17
+    second: Pflanze Verdorben
   - first:
       213: -5076371297752297010
-    second: WohnzimmerObj_18
+    second: Brief
   - first:
       213: 8171576568647462591
-    second: WohnzimmerObj_19
+    second: Radio
   - first:
       213: -9031676818911933462
     second: WohnzimmerObj_20
@@ -70,10 +70,10 @@ TextureImporter:
     second: WohnzimmerObj_22
   - first:
       213: -8035157795440169920
-    second: WohnzimmerObj_23
+    second: Kerze
   - first:
       213: -900388353898544096
-    second: WohnzimmerObj_24
+    second: Muschel
   - first:
       213: -3232522886728008064
     second: WohnzimmerObj_21
@@ -166,7 +166,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WohnzimmerObj_0
+      name: Pflanze Lebend
       rect:
         serializedVersion: 2
         x: 180
@@ -187,7 +187,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WohnzimmerObj_1
+      name: Spardose
       rect:
         serializedVersion: 2
         x: 949
@@ -271,7 +271,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WohnzimmerObj_5
+      name: Schiff
       rect:
         serializedVersion: 2
         x: 666
@@ -292,7 +292,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WohnzimmerObj_6
+      name: Box
       rect:
         serializedVersion: 2
         x: 1077
@@ -334,7 +334,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WohnzimmerObj_8
+      name: Hochzeitsbild
       rect:
         serializedVersion: 2
         x: 1240
@@ -355,7 +355,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WohnzimmerObj_9
+      name: Zeitung
       rect:
         serializedVersion: 2
         x: 159
@@ -397,7 +397,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WohnzimmerObj_11
+      name: Penisqualle
       rect:
         serializedVersion: 2
         x: 535
@@ -460,7 +460,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WohnzimmerObj_14
+      name: Gieskanne
       rect:
         serializedVersion: 2
         x: 66
@@ -481,7 +481,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WohnzimmerObj_15
+      name: Schlussel
       rect:
         serializedVersion: 2
         x: 612
@@ -502,7 +502,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WohnzimmerObj_16
+      name: Ehering
       rect:
         serializedVersion: 2
         x: 687
@@ -523,7 +523,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WohnzimmerObj_17
+      name: Pflanze Verdorben
       rect:
         serializedVersion: 2
         x: 744
@@ -544,7 +544,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WohnzimmerObj_18
+      name: Brief
       rect:
         serializedVersion: 2
         x: 156
@@ -565,7 +565,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WohnzimmerObj_19
+      name: Radio
       rect:
         serializedVersion: 2
         x: 294
@@ -607,7 +607,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WohnzimmerObj_23
+      name: Kerze
       rect:
         serializedVersion: 2
         x: 1335
@@ -628,7 +628,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WohnzimmerObj_24
+      name: Muschel
       rect:
         serializedVersion: 2
         x: 1025

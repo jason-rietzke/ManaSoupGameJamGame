@@ -534,11 +534,10 @@ MonoBehaviour:
   m_Name: FMODStudioSettings
   m_EditorClassIdentifier: 
   SwitchSettingsMigration: 1
-  HasSourceProject: 1
-  HasPlatforms: 1
-  sourceProjectPath: FMODAssets/211205 Manasoup Gamejam Version 2.01/211205 Manasoup
-    Gamejam Version 2.01.fspro
-  sourceBankPath: FMODAssets/211205 Manasoup Gamejam Version 2.01/Build
+  HasSourceProject: 0
+  HasPlatforms: 0
+  sourceProjectPath: 
+  sourceBankPath: FMODAssets
   SourceBankPathUnformatted: 
   BankRefreshCooldown: 5
   ShowBankRefreshWindow: 1
@@ -559,11 +558,8 @@ MonoBehaviour:
   VirtualChannelSettings: []
   RealChannelSettings: []
   Plugins: []
-  MasterBanks:
-  - Master
-  Banks:
-  - Foley
-  - SFX
+  MasterBanks: []
+  Banks: []
   BanksToLoad: []
   LiveUpdatePort: 9264
   EnableMemoryTracking: 0

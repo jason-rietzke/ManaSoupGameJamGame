@@ -13,24 +13,2813 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-12-05T16:52:59.652+01:00
-  initializedAtString: 2021-12-05T15:13:34.628+01:00
+  lastUpdatedAtString: 2021-12-05T17:31:04.103+01:00
+  initializedAtString: 2021-12-05T16:36:48.299+01:00
   entries:
-  - path: Assets/.DS_Store
-    fullPath: /Users/jasonrietzke/git/ManasoupGameJam/Assets/.DS_Store
-    projectPath: Assets/.DS_Store
+  - path: Art Assets\TextBubble.png
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Art Assets\TextBubble.png
+    projectPath: Art Assets\TextBubble.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Scripts/SoundVolume.cs
-    fullPath: /Users/jasonrietzke/git/ManasoupGameJam/Assets/Scripts/SoundVolume.cs
-    projectPath: Assets/Scripts/SoundVolume.cs
+  - path: Assets\CameraAnim.cs.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\CameraAnim.cs.meta
+    projectPath: Assets\CameraAnim.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Drawing-Regular.ttf
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Drawing-Regular.ttf
+    projectPath: Assets\Drawing-Regular.ttf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Scripts/SoundVolume.cs.meta
-    fullPath: /Users/jasonrietzke/git/ManasoupGameJam/Assets/Scripts/SoundVolume.cs.meta
-    projectPath: Assets/Scripts/SoundVolume.cs.meta
+  - path: Assets\Drawing-Regular.ttf.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Drawing-Regular.ttf.meta
+    projectPath: Assets\Drawing-Regular.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics.meta
+    projectPath: Assets\Grafics.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Badezimmer.png
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Badezimmer.png
+    projectPath: Assets\Grafics\Badezimmer.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Badezimmer.png.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Badezimmer.png.meta
+    projectPath: Assets\Grafics\Badezimmer.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\BadezimmerObjekte.png
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\BadezimmerObjekte.png
+    projectPath: Assets\Grafics\BadezimmerObjekte.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\BadezimmerObjekte.png.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\BadezimmerObjekte.png.meta
+    projectPath: Assets\Grafics\BadezimmerObjekte.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\BadezimmerObjekte.png~
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\BadezimmerObjekte.png~
+    projectPath: Assets\Grafics\BadezimmerObjekte.png~
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Esszimmer.png
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Esszimmer.png
+    projectPath: Assets\Grafics\Esszimmer.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Esszimmer.png.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Esszimmer.png.meta
+    projectPath: Assets\Grafics\Esszimmer.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\f_angry.png
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\f_angry.png
+    projectPath: Assets\Grafics\f_angry.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\f_angry.png.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\f_angry.png.meta
+    projectPath: Assets\Grafics\f_angry.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Grafics\\K\xFCche.png"
+    fullPath: "M:\\Unity\\Projekt\\2D\\AlsWirUnsNochKannten\\ManasoupGameJam\\Assets\\Grafics\\K\xFCche.png"
+    projectPath: "Assets\\Grafics\\K\xFCche.png"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Grafics\\K\xFCche.png.meta"
+    fullPath: "M:\\Unity\\Projekt\\2D\\AlsWirUnsNochKannten\\ManasoupGameJam\\Assets\\Grafics\\K\xFCche.png.meta"
+    projectPath: "Assets\\Grafics\\K\xFCche.png.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Grafics\\K\xFCcheObjekte.png"
+    fullPath: "M:\\Unity\\Projekt\\2D\\AlsWirUnsNochKannten\\ManasoupGameJam\\Assets\\Grafics\\K\xFCcheObjekte.png"
+    projectPath: "Assets\\Grafics\\K\xFCcheObjekte.png"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Grafics\\K\xFCcheObjekte.png.meta"
+    fullPath: "M:\\Unity\\Projekt\\2D\\AlsWirUnsNochKannten\\ManasoupGameJam\\Assets\\Grafics\\K\xFCcheObjekte.png.meta"
+    projectPath: "Assets\\Grafics\\K\xFCcheObjekte.png.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Grafics\\K\xFCcheObjekte.png~"
+    fullPath: "M:\\Unity\\Projekt\\2D\\AlsWirUnsNochKannten\\ManasoupGameJam\\Assets\\Grafics\\K\xFCcheObjekte.png~"
+    projectPath: "Assets\\Grafics\\K\xFCcheObjekte.png~"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Menu.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Menu.meta
+    projectPath: Assets\Grafics\Menu.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Menu\TextBubble.png
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Menu\TextBubble.png
+    projectPath: Assets\Grafics\Menu\TextBubble.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Menu\TextBubble.png.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Menu\TextBubble.png.meta
+    projectPath: Assets\Grafics\Menu\TextBubble.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Room1.png
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Room1.png
+    projectPath: Assets\Grafics\Room1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Room1.png.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Room1.png.meta
+    projectPath: Assets\Grafics\Room1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Room2.png
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Room2.png
+    projectPath: Assets\Grafics\Room2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Room2.png.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Room2.png.meta
+    projectPath: Assets\Grafics\Room2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Room3.png
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Room3.png
+    projectPath: Assets\Grafics\Room3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Room3.png.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Room3.png.meta
+    projectPath: Assets\Grafics\Room3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Room4.png
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Room4.png
+    projectPath: Assets\Grafics\Room4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Room4.png.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Room4.png.meta
+    projectPath: Assets\Grafics\Room4.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Schlafzimmer.png
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Schlafzimmer.png
+    projectPath: Assets\Grafics\Schlafzimmer.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Schlafzimmer.png.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Schlafzimmer.png.meta
+    projectPath: Assets\Grafics\Schlafzimmer.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Schlafzimmer.psd
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Schlafzimmer.psd
+    projectPath: Assets\Grafics\Schlafzimmer.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Schlafzimmer.psd.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Schlafzimmer.psd.meta
+    projectPath: Assets\Grafics\Schlafzimmer.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\SchlafzimmerObjekte.png
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\SchlafzimmerObjekte.png
+    projectPath: Assets\Grafics\SchlafzimmerObjekte.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\SchlafzimmerObjekte.png.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\SchlafzimmerObjekte.png.meta
+    projectPath: Assets\Grafics\SchlafzimmerObjekte.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\SchlafzimmerObjekte.png~
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\SchlafzimmerObjekte.png~
+    projectPath: Assets\Grafics\SchlafzimmerObjekte.png~
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Teppich.png
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Teppich.png
+    projectPath: Assets\Grafics\Teppich.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Teppich.png.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Teppich.png.meta
+    projectPath: Assets\Grafics\Teppich.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\TextBubble 1.png
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\TextBubble
+      1.png
+    projectPath: Assets\Grafics\TextBubble 1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\TextBubble 1.png.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\TextBubble
+      1.png.meta
+    projectPath: Assets\Grafics\TextBubble 1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\TextBubble.png
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\TextBubble.png
+    projectPath: Assets\Grafics\TextBubble.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\TextBubble.png.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\TextBubble.png.meta
+    projectPath: Assets\Grafics\TextBubble.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Wohnzimmer.png
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Wohnzimmer.png
+    projectPath: Assets\Grafics\Wohnzimmer.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Wohnzimmer.png.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Wohnzimmer.png.meta
+    projectPath: Assets\Grafics\Wohnzimmer.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\Wohnzimmer.png~
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\Wohnzimmer.png~
+    projectPath: Assets\Grafics\Wohnzimmer.png~
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\WohnzimmerObj.png
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\WohnzimmerObj.png
+    projectPath: Assets\Grafics\WohnzimmerObj.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\WohnzimmerObj.png.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\WohnzimmerObj.png.meta
+    projectPath: Assets\Grafics\WohnzimmerObj.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Grafics\WohnzimmerObj.png~
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Grafics\WohnzimmerObj.png~
+    projectPath: Assets\Grafics\WohnzimmerObj.png~
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Grafics\\Zimmer 2 T\xFCren.png"
+    fullPath: "M:\\Unity\\Projekt\\2D\\AlsWirUnsNochKannten\\ManasoupGameJam\\Assets\\Grafics\\Zimmer
+      2 T\xFCren.png"
+    projectPath: "Assets\\Grafics\\Zimmer 2 T\xFCren.png"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Grafics\\Zimmer 2 T\xFCren.png.meta"
+    fullPath: "M:\\Unity\\Projekt\\2D\\AlsWirUnsNochKannten\\ManasoupGameJam\\Assets\\Grafics\\Zimmer
+      2 T\xFCren.png.meta"
+    projectPath: "Assets\\Grafics\\Zimmer 2 T\xFCren.png.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Grafics\\Zimmer 2 T\xFCren.png~"
+    fullPath: "M:\\Unity\\Projekt\\2D\\AlsWirUnsNochKannten\\ManasoupGameJam\\Assets\\Grafics\\Zimmer
+      2 T\xFCren.png~"
+    projectPath: "Assets\\Grafics\\Zimmer 2 T\xFCren.png~"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Grafics\\Zimmer1T\xFCrenL.png"
+    fullPath: "M:\\Unity\\Projekt\\2D\\AlsWirUnsNochKannten\\ManasoupGameJam\\Assets\\Grafics\\Zimmer1T\xFCrenL.png"
+    projectPath: "Assets\\Grafics\\Zimmer1T\xFCrenL.png"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Grafics\\Zimmer1T\xFCrenL.png.meta"
+    fullPath: "M:\\Unity\\Projekt\\2D\\AlsWirUnsNochKannten\\ManasoupGameJam\\Assets\\Grafics\\Zimmer1T\xFCrenL.png.meta"
+    projectPath: "Assets\\Grafics\\Zimmer1T\xFCrenL.png.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Grafics\\Zimmer1T\xFCrenL.png~"
+    fullPath: "M:\\Unity\\Projekt\\2D\\AlsWirUnsNochKannten\\ManasoupGameJam\\Assets\\Grafics\\Zimmer1T\xFCrenL.png~"
+    projectPath: "Assets\\Grafics\\Zimmer1T\xFCrenL.png~"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Grafics\\Zimmer1T\xFCrenR.png"
+    fullPath: "M:\\Unity\\Projekt\\2D\\AlsWirUnsNochKannten\\ManasoupGameJam\\Assets\\Grafics\\Zimmer1T\xFCrenR.png"
+    projectPath: "Assets\\Grafics\\Zimmer1T\xFCrenR.png"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Grafics\\Zimmer1T\xFCrenR.png.meta"
+    fullPath: "M:\\Unity\\Projekt\\2D\\AlsWirUnsNochKannten\\ManasoupGameJam\\Assets\\Grafics\\Zimmer1T\xFCrenR.png.meta"
+    projectPath: "Assets\\Grafics\\Zimmer1T\xFCrenR.png.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Grafics\\Zimmer1T\xFCrenR.png~"
+    fullPath: "M:\\Unity\\Projekt\\2D\\AlsWirUnsNochKannten\\ManasoupGameJam\\Assets\\Grafics\\Zimmer1T\xFCrenR.png~"
+    projectPath: "Assets\\Grafics\\Zimmer1T\xFCrenR.png~"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Prefabs.meta
+    projectPath: Assets\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Roomchange.cs.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Roomchange.cs.meta
+    projectPath: Assets\Roomchange.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Lobby.unity
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scenes\Lobby.unity
+    projectPath: Assets\Scenes\Lobby.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Lobby.unity.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scenes\Lobby.unity.meta
+    projectPath: Assets\Scenes\Lobby.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Music tEST sCENE.unity
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scenes\Music
+      tEST sCENE.unity
+    projectPath: Assets\Scenes\Music tEST sCENE.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Music tEST sCENE.unity.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scenes\Music
+      tEST sCENE.unity.meta
+    projectPath: Assets\Scenes\Music tEST sCENE.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CameraAnim.cs
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\CameraAnim.cs
+    projectPath: Assets\Scripts\CameraAnim.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CameraAnim.cs.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\CameraAnim.cs.meta
+    projectPath: Assets\Scripts\CameraAnim.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CreateServerButton.cs
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\CreateServerButton.cs
+    projectPath: Assets\Scripts\CreateServerButton.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CreateServerButton.cs.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\CreateServerButton.cs.meta
+    projectPath: Assets\Scripts\CreateServerButton.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\GameServerCallbackHandler.cs
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\GameServerCallbackHandler.cs
+    projectPath: Assets\Scripts\GameServerCallbackHandler.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\GameServerCallbackHandler.cs.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\GameServerCallbackHandler.cs.meta
+    projectPath: Assets\Scripts\GameServerCallbackHandler.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Item.cs
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\Item.cs
+    projectPath: Assets\Scripts\Item.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Item.cs.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\Item.cs.meta
+    projectPath: Assets\Scripts\Item.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ItemManager.cs
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\ItemManager.cs
+    projectPath: Assets\Scripts\ItemManager.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ItemManager.cs.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\ItemManager.cs.meta
+    projectPath: Assets\Scripts\ItemManager.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\JoinServerButton.cs
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\JoinServerButton.cs
+    projectPath: Assets\Scripts\JoinServerButton.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\JoinServerButton.cs.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\JoinServerButton.cs.meta
+    projectPath: Assets\Scripts\JoinServerButton.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\MenuControl.cs
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\MenuControl.cs
+    projectPath: Assets\Scripts\MenuControl.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\MenuControl.cs.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\MenuControl.cs.meta
+    projectPath: Assets\Scripts\MenuControl.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\MessageBoxHandler.cs
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\MessageBoxHandler.cs
+    projectPath: Assets\Scripts\MessageBoxHandler.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\MessageBoxHandler.cs.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\MessageBoxHandler.cs.meta
+    projectPath: Assets\Scripts\MessageBoxHandler.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\NetworkIdInputField.cs
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\NetworkIdInputField.cs
+    projectPath: Assets\Scripts\NetworkIdInputField.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\NetworkIdInputField.cs.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\NetworkIdInputField.cs.meta
+    projectPath: Assets\Scripts\NetworkIdInputField.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Roomchange.cs
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\Roomchange.cs
+    projectPath: Assets\Scripts\Roomchange.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Roomchange.cs.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\Roomchange.cs.meta
+    projectPath: Assets\Scripts\Roomchange.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ShowNetworkIdField.cs
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\ShowNetworkIdField.cs
+    projectPath: Assets\Scripts\ShowNetworkIdField.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ShowNetworkIdField.cs.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\ShowNetworkIdField.cs.meta
+    projectPath: Assets\Scripts\ShowNetworkIdField.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\SoundVolume.cs
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\SoundVolume.cs
+    projectPath: Assets\Scripts\SoundVolume.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\SoundVolume.cs.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\Scripts\SoundVolume.cs.meta
+    projectPath: Assets\Scripts\SoundVolume.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextBubble.png
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\TextBubble.png
+    projectPath: Assets\TextBubble.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextBubble.png.meta
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\Assets\TextBubble.png.meta
+    projectPath: Assets\TextBubble.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{00ca8c47-13d4-4ddc-bb37-cda7fb32182b}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{00ca8c47-13d4-4ddc-bb37-cda7fb32182b}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{00ca8c47-13d4-4ddc-bb37-cda7fb32182b}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{0adcfc55-a3a2-4b29-8881-6d4db23ae6d6}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{0adcfc55-a3a2-4b29-8881-6d4db23ae6d6}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{0adcfc55-a3a2-4b29-8881-6d4db23ae6d6}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{0c3fc62c-0e5d-4253-8e06-cb2121b129a6}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{0c3fc62c-0e5d-4253-8e06-cb2121b129a6}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{0c3fc62c-0e5d-4253-8e06-cb2121b129a6}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{0caa74a4-b7e0-469b-912a-f18026838c78}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{0caa74a4-b7e0-469b-912a-f18026838c78}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{0caa74a4-b7e0-469b-912a-f18026838c78}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{0d6d0411-6c71-48f7-a7b3-f4d302bf826e}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{0d6d0411-6c71-48f7-a7b3-f4d302bf826e}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{0d6d0411-6c71-48f7-a7b3-f4d302bf826e}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{0f4a6890-b441-47f7-aa3f-f9a3536c3350}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{0f4a6890-b441-47f7-aa3f-f9a3536c3350}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{0f4a6890-b441-47f7-aa3f-f9a3536c3350}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{12310991-611a-49a1-ab0b-81dbc7dbf7da}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{12310991-611a-49a1-ab0b-81dbc7dbf7da}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{12310991-611a-49a1-ab0b-81dbc7dbf7da}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{1705257c-9496-4764-9c25-49fc5cd97632}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{1705257c-9496-4764-9c25-49fc5cd97632}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{1705257c-9496-4764-9c25-49fc5cd97632}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{1acf7148-6805-44c0-bd4c-fab890d32b66}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{1acf7148-6805-44c0-bd4c-fab890d32b66}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{1acf7148-6805-44c0-bd4c-fab890d32b66}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{1cb9b8be-99ac-4563-ba91-cfa508359ab1}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{1cb9b8be-99ac-4563-ba91-cfa508359ab1}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{1cb9b8be-99ac-4563-ba91-cfa508359ab1}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{1e494131-0bb2-4cf1-b4a7-b8ffc976eaaa}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{1e494131-0bb2-4cf1-b4a7-b8ffc976eaaa}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{1e494131-0bb2-4cf1-b4a7-b8ffc976eaaa}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{23dfb64e-1784-4238-9f01-775d687ea6d2}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{23dfb64e-1784-4238-9f01-775d687ea6d2}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{23dfb64e-1784-4238-9f01-775d687ea6d2}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{293cb4bd-80e9-48d2-baa0-5bbb0c78da77}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{293cb4bd-80e9-48d2-baa0-5bbb0c78da77}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{293cb4bd-80e9-48d2-baa0-5bbb0c78da77}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{2a652206-7e11-4785-9a4b-804573fbaa21}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{2a652206-7e11-4785-9a4b-804573fbaa21}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{2a652206-7e11-4785-9a4b-804573fbaa21}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{2f92fd73-2ffb-42d3-bcea-be085dec1f55}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{2f92fd73-2ffb-42d3-bcea-be085dec1f55}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{2f92fd73-2ffb-42d3-bcea-be085dec1f55}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{30de3cfb-697c-435d-8ef6-4f4f30b781c7}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{30de3cfb-697c-435d-8ef6-4f4f30b781c7}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{30de3cfb-697c-435d-8ef6-4f4f30b781c7}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{32c5b761-a3aa-44a2-9b8a-fac76b2029ad}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{32c5b761-a3aa-44a2-9b8a-fac76b2029ad}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{32c5b761-a3aa-44a2-9b8a-fac76b2029ad}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{345c8586-ac17-4716-88a2-78d6644476ec}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{345c8586-ac17-4716-88a2-78d6644476ec}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{345c8586-ac17-4716-88a2-78d6644476ec}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{3559697b-9024-4649-8571-b64770ba6ed7}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{3559697b-9024-4649-8571-b64770ba6ed7}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{3559697b-9024-4649-8571-b64770ba6ed7}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{37390d7c-156a-4c5f-a4ce-f3e3704d27af}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{37390d7c-156a-4c5f-a4ce-f3e3704d27af}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{37390d7c-156a-4c5f-a4ce-f3e3704d27af}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{37648ba1-9917-4cec-bfc8-0285bc3e52ae}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{37648ba1-9917-4cec-bfc8-0285bc3e52ae}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{37648ba1-9917-4cec-bfc8-0285bc3e52ae}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{377ebe2a-aaf9-4937-9955-a5b74fc10ad7}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{377ebe2a-aaf9-4937-9955-a5b74fc10ad7}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{377ebe2a-aaf9-4937-9955-a5b74fc10ad7}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{38815966-3ea8-4c0f-b2e8-a4f0de2105b3}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{38815966-3ea8-4c0f-b2e8-a4f0de2105b3}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{38815966-3ea8-4c0f-b2e8-a4f0de2105b3}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{3a3bf3ef-b233-4b5f-9ef3-38a7f67e343c}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{3a3bf3ef-b233-4b5f-9ef3-38a7f67e343c}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{3a3bf3ef-b233-4b5f-9ef3-38a7f67e343c}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{3b152417-0ab3-463e-888f-3e197e842d49}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{3b152417-0ab3-463e-888f-3e197e842d49}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{3b152417-0ab3-463e-888f-3e197e842d49}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{4d12fe16-9fed-44e8-b23e-da60710143d4}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{4d12fe16-9fed-44e8-b23e-da60710143d4}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{4d12fe16-9fed-44e8-b23e-da60710143d4}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{5129cc3a-55e6-400f-93fc-2f2d2df4d46d}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{5129cc3a-55e6-400f-93fc-2f2d2df4d46d}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{5129cc3a-55e6-400f-93fc-2f2d2df4d46d}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{557e1b00-333b-44de-9897-c27635800654}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{557e1b00-333b-44de-9897-c27635800654}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{557e1b00-333b-44de-9897-c27635800654}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{572ea097-5363-447e-9bb0-15db5c53fee4}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{572ea097-5363-447e-9bb0-15db5c53fee4}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{572ea097-5363-447e-9bb0-15db5c53fee4}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{57f48b9d-108a-417f-a6b5-746266aafa2c}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{57f48b9d-108a-417f-a6b5-746266aafa2c}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{57f48b9d-108a-417f-a6b5-746266aafa2c}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{5d43017c-af29-4851-ba8c-a3cc1756993a}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{5d43017c-af29-4851-ba8c-a3cc1756993a}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{5d43017c-af29-4851-ba8c-a3cc1756993a}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{6061f0ed-3840-4148-8f18-16cffd9a30a2}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{6061f0ed-3840-4148-8f18-16cffd9a30a2}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{6061f0ed-3840-4148-8f18-16cffd9a30a2}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{633e95b5-ad15-492a-8a66-95f63555cd3c}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{633e95b5-ad15-492a-8a66-95f63555cd3c}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{633e95b5-ad15-492a-8a66-95f63555cd3c}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{636ad5bb-4a82-47e7-b9e5-f197cb0fd4a7}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{636ad5bb-4a82-47e7-b9e5-f197cb0fd4a7}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{636ad5bb-4a82-47e7-b9e5-f197cb0fd4a7}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{6415e363-cdc5-448e-a90e-02b33dd6f6a4}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{6415e363-cdc5-448e-a90e-02b33dd6f6a4}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{6415e363-cdc5-448e-a90e-02b33dd6f6a4}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{66a68232-1766-45f7-8af7-8e2e543b689b}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{66a68232-1766-45f7-8af7-8e2e543b689b}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{66a68232-1766-45f7-8af7-8e2e543b689b}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{72a0924b-0a14-412e-8ea1-dd3e3e89f666}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{72a0924b-0a14-412e-8ea1-dd3e3e89f666}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{72a0924b-0a14-412e-8ea1-dd3e3e89f666}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{73a31096-4102-43f4-be38-c0c266475afd}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{73a31096-4102-43f4-be38-c0c266475afd}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{73a31096-4102-43f4-be38-c0c266475afd}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{74e1106a-524a-4726-ae69-52ecc7e2c215}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{74e1106a-524a-4726-ae69-52ecc7e2c215}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{74e1106a-524a-4726-ae69-52ecc7e2c215}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{74ee35b6-1a5b-4cb3-ac8a-3668ae9ee228}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{74ee35b6-1a5b-4cb3-ac8a-3668ae9ee228}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{74ee35b6-1a5b-4cb3-ac8a-3668ae9ee228}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{7670d984-58ff-476a-8f5b-43c4b6077035}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{7670d984-58ff-476a-8f5b-43c4b6077035}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{7670d984-58ff-476a-8f5b-43c4b6077035}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{76da1df0-2942-49a7-9e48-3dcf14369d94}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{76da1df0-2942-49a7-9e48-3dcf14369d94}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{76da1df0-2942-49a7-9e48-3dcf14369d94}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{7aa1fb1c-24a7-4ba3-8bc7-c4dbcdc44fef}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{7aa1fb1c-24a7-4ba3-8bc7-c4dbcdc44fef}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{7aa1fb1c-24a7-4ba3-8bc7-c4dbcdc44fef}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{7b566813-9b0b-4daf-a0a3-c561cec4d85b}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{7b566813-9b0b-4daf-a0a3-c561cec4d85b}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{7b566813-9b0b-4daf-a0a3-c561cec4d85b}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{865b674c-532b-4094-b408-fcd7f86bca53}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{865b674c-532b-4094-b408-fcd7f86bca53}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{865b674c-532b-4094-b408-fcd7f86bca53}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{884a18d9-6ae2-44f7-b19d-30454da8bb04}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{884a18d9-6ae2-44f7-b19d-30454da8bb04}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{884a18d9-6ae2-44f7-b19d-30454da8bb04}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{889a4a59-7fab-4107-b78d-d4adda0c873c}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{889a4a59-7fab-4107-b78d-d4adda0c873c}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{889a4a59-7fab-4107-b78d-d4adda0c873c}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{8fadc518-d0ea-4bf3-8e0c-6be982681604}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{8fadc518-d0ea-4bf3-8e0c-6be982681604}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{8fadc518-d0ea-4bf3-8e0c-6be982681604}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{984fac38-9908-43fc-bca7-ea9f68ed7e27}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{984fac38-9908-43fc-bca7-ea9f68ed7e27}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{984fac38-9908-43fc-bca7-ea9f68ed7e27}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{c8ce46dc-cd74-4083-9690-1e593f65fcf9}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{c8ce46dc-cd74-4083-9690-1e593f65fcf9}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{c8ce46dc-cd74-4083-9690-1e593f65fcf9}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{c9e3825f-7551-4785-9726-b0618cb794e2}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{c9e3825f-7551-4785-9726-b0618cb794e2}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{c9e3825f-7551-4785-9726-b0618cb794e2}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{cb1474c1-fe8e-4fe7-8ff6-1e8a53c855cf}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{cb1474c1-fe8e-4fe7-8ff6-1e8a53c855cf}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{cb1474c1-fe8e-4fe7-8ff6-1e8a53c855cf}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{cc208e80-c2f2-4cc2-bffc-0a1e4dfb6b58}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{cc208e80-c2f2-4cc2-bffc-0a1e4dfb6b58}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{cc208e80-c2f2-4cc2-bffc-0a1e4dfb6b58}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{cd7154ba-5d23-4e91-8602-e7b62cb0f902}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{cd7154ba-5d23-4e91-8602-e7b62cb0f902}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{cd7154ba-5d23-4e91-8602-e7b62cb0f902}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{cdd1a645-b929-45a0-9820-9ec25f49c769}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{cdd1a645-b929-45a0-9820-9ec25f49c769}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{cdd1a645-b929-45a0-9820-9ec25f49c769}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{cdf5a50e-4c07-4c8a-877c-ad7ec7975564}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{cdf5a50e-4c07-4c8a-877c-ad7ec7975564}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{cdf5a50e-4c07-4c8a-877c-ad7ec7975564}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{d06d32b6-a33e-4e21-9b52-cd97ef86a294}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{d06d32b6-a33e-4e21-9b52-cd97ef86a294}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{d06d32b6-a33e-4e21-9b52-cd97ef86a294}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{d3ba5af4-5650-481a-81fa-19af419ab61a}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{d3ba5af4-5650-481a-81fa-19af419ab61a}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{d3ba5af4-5650-481a-81fa-19af419ab61a}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{d4af9795-214b-4bbe-8a6c-2aeebad7a0c2}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{d4af9795-214b-4bbe-8a6c-2aeebad7a0c2}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{d4af9795-214b-4bbe-8a6c-2aeebad7a0c2}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{d8558905-0a67-40a6-90c9-c3e0f05a5254}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{d8558905-0a67-40a6-90c9-c3e0f05a5254}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{d8558905-0a67-40a6-90c9-c3e0f05a5254}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{e06670d8-bd73-40c6-a440-06ea8f9f6635}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{e06670d8-bd73-40c6-a440-06ea8f9f6635}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{e06670d8-bd73-40c6-a440-06ea8f9f6635}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{e36667ee-9f74-4df4-a14a-56b00db91b44}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{e36667ee-9f74-4df4-a14a-56b00db91b44}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{e36667ee-9f74-4df4-a14a-56b00db91b44}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{e4cbf2e4-299d-4cbc-8492-c50292cbce00}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{e4cbf2e4-299d-4cbc-8492-c50292cbce00}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{e4cbf2e4-299d-4cbc-8492-c50292cbce00}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{e5978a92-a498-4f88-a28d-0550ddff8db0}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{e5978a92-a498-4f88-a28d-0550ddff8db0}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{e5978a92-a498-4f88-a28d-0550ddff8db0}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{eb898f28-99bf-48c8-b10a-b765f5934baa}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{eb898f28-99bf-48c8-b10a-b765f5934baa}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{eb898f28-99bf-48c8-b10a-b765f5934baa}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{ed2b44d1-0989-4c9c-9736-123395f56004}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{ed2b44d1-0989-4c9c-9736-123395f56004}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{ed2b44d1-0989-4c9c-9736-123395f56004}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{ed9dde82-1009-4d7e-8bf6-1f62fb1d3a80}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{ed9dde82-1009-4d7e-8bf6-1f62fb1d3a80}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{ed9dde82-1009-4d7e-8bf6-1f62fb1d3a80}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{efa20f15-a265-4a42-996b-c7f08555ebe4}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{efa20f15-a265-4a42-996b-c7f08555ebe4}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{efa20f15-a265-4a42-996b-c7f08555ebe4}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{f170ab39-0cd4-47c6-a1dc-62f15c201761}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{f170ab39-0cd4-47c6-a1dc-62f15c201761}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{f170ab39-0cd4-47c6-a1dc-62f15c201761}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{f4fa50a6-5276-42d5-a7fc-f4de3e85c56c}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{f4fa50a6-5276-42d5-a7fc-f4de3e85c56c}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{f4fa50a6-5276-42d5-a7fc-f4de3e85c56c}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{f5999c96-672c-4348-b378-2f94164774b7}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{f5999c96-672c-4348-b378-2f94164774b7}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{f5999c96-672c-4348-b378-2f94164774b7}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{f652461f-514e-42bf-bd6c-708e41735e71}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{f652461f-514e-42bf-bd6c-708e41735e71}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{f652461f-514e-42bf-bd6c-708e41735e71}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{f7493bef-2fe6-4adb-9cd5-55e2bb404cdc}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{f7493bef-2fe6-4adb-9cd5-55e2bb404cdc}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{f7493bef-2fe6-4adb-9cd5-55e2bb404cdc}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{fd2145ba-44a0-4ff0-acc1-dac14a1b5291}.pdc
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\{fd2145ba-44a0-4ff0-acc1-dac14a1b5291}.pdc
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\{fd2145ba-44a0-4ff0-acc1-dac14a1b5291}.pdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\fsbcache\Desktop\0F880644.fobj
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\fsbcache\Desktop\0F880644.fobj
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\fsbcache\Desktop\0F880644.fobj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\fsbcache\Desktop\2DE9DDAF.fobj
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\fsbcache\Desktop\2DE9DDAF.fobj
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\fsbcache\Desktop\2DE9DDAF.fobj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\fsbcache\Desktop\37468CC3.fobj
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\fsbcache\Desktop\37468CC3.fobj
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\fsbcache\Desktop\37468CC3.fobj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\fsbcache\Desktop\A7ADB82C.fobj
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\fsbcache\Desktop\A7ADB82C.fobj
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\fsbcache\Desktop\A7ADB82C.fobj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\fsbcache\Desktop\A82769E4.fobj
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\fsbcache\Desktop\A82769E4.fobj
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\fsbcache\Desktop\A82769E4.fobj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\fsbcache\Desktop\C05931EA.fobj
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\fsbcache\Desktop\C05931EA.fobj
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\fsbcache\Desktop\C05931EA.fobj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\.cache\fsbcache\Desktop\E40573CC.fobj
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\.cache\fsbcache\Desktop\E40573CC.fobj
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\.cache\fsbcache\Desktop\E40573CC.fobj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Build\Desktop\Master.bank
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Build\Desktop\Master.bank
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Build\Desktop\Master.bank
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Build\Desktop\Master.strings.bank
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Build\Desktop\Master.strings.bank
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Build\Desktop\Master.strings.bank
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Manasoup Gamejam Version 2.01.fspro
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Manasoup Gamejam Version 2.01.fspro
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Manasoup Gamejam Version
+      2.01.fspro
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{00fc636b-210e-4f38-a5b2-b5030b3bd426}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{00fc636b-210e-4f38-a5b2-b5030b3bd426}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{00fc636b-210e-4f38-a5b2-b5030b3bd426}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{04621aab-21f6-49a6-9554-7062d31a684b}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{04621aab-21f6-49a6-9554-7062d31a684b}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{04621aab-21f6-49a6-9554-7062d31a684b}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{0b97438a-0a77-4783-a6ca-fe9fb95d7131}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{0b97438a-0a77-4783-a6ca-fe9fb95d7131}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{0b97438a-0a77-4783-a6ca-fe9fb95d7131}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{0c96d1c8-df1f-4c15-beb0-41cad17c022c}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{0c96d1c8-df1f-4c15-beb0-41cad17c022c}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{0c96d1c8-df1f-4c15-beb0-41cad17c022c}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{1289cef5-15d0-4a5e-8bbe-88242179cd38}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{1289cef5-15d0-4a5e-8bbe-88242179cd38}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{1289cef5-15d0-4a5e-8bbe-88242179cd38}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{12a15104-aefa-4d5f-9f1e-0ebab2a7a214}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{12a15104-aefa-4d5f-9f1e-0ebab2a7a214}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{12a15104-aefa-4d5f-9f1e-0ebab2a7a214}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{12cf7dbe-e5fb-4a01-8065-4c5328cc1fd0}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{12cf7dbe-e5fb-4a01-8065-4c5328cc1fd0}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{12cf7dbe-e5fb-4a01-8065-4c5328cc1fd0}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{13d16c11-de2b-4a17-8e91-f380a9313d6a}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{13d16c11-de2b-4a17-8e91-f380a9313d6a}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{13d16c11-de2b-4a17-8e91-f380a9313d6a}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{16512eec-d06c-4afd-808c-e49f93283b2a}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{16512eec-d06c-4afd-808c-e49f93283b2a}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{16512eec-d06c-4afd-808c-e49f93283b2a}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{168b5363-209e-4f45-b1c6-58299c6f8797}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{168b5363-209e-4f45-b1c6-58299c6f8797}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{168b5363-209e-4f45-b1c6-58299c6f8797}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{174b9eda-db72-452a-be97-3a349f325bca}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{174b9eda-db72-452a-be97-3a349f325bca}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{174b9eda-db72-452a-be97-3a349f325bca}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{18534ddb-caed-4e80-9415-82929e28dcbc}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{18534ddb-caed-4e80-9415-82929e28dcbc}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{18534ddb-caed-4e80-9415-82929e28dcbc}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{1a43c19e-7dde-4321-b2a7-efd1e16e405f}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{1a43c19e-7dde-4321-b2a7-efd1e16e405f}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{1a43c19e-7dde-4321-b2a7-efd1e16e405f}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{1a81ac9b-3a47-4585-be0d-d9f8501d26a4}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{1a81ac9b-3a47-4585-be0d-d9f8501d26a4}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{1a81ac9b-3a47-4585-be0d-d9f8501d26a4}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{1ce41406-aa52-442a-95c4-b5925fb4cfab}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{1ce41406-aa52-442a-95c4-b5925fb4cfab}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{1ce41406-aa52-442a-95c4-b5925fb4cfab}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{1f5617b1-b96d-4b3d-81a8-749fbecf5a62}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{1f5617b1-b96d-4b3d-81a8-749fbecf5a62}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{1f5617b1-b96d-4b3d-81a8-749fbecf5a62}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{1fb5cec1-8b94-4448-89b3-2b7b59fa9696}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{1fb5cec1-8b94-4448-89b3-2b7b59fa9696}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{1fb5cec1-8b94-4448-89b3-2b7b59fa9696}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{21a55de8-ca33-4146-8ef7-4de8c98e60ab}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{21a55de8-ca33-4146-8ef7-4de8c98e60ab}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{21a55de8-ca33-4146-8ef7-4de8c98e60ab}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{235da4a4-b321-4487-9d85-24d8a6cd6ad8}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{235da4a4-b321-4487-9d85-24d8a6cd6ad8}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{235da4a4-b321-4487-9d85-24d8a6cd6ad8}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{239f7fbf-c3e4-44d0-a84d-7aa29033085a}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{239f7fbf-c3e4-44d0-a84d-7aa29033085a}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{239f7fbf-c3e4-44d0-a84d-7aa29033085a}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{23acdd79-73fa-4b9c-a288-80c88349f5f7}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{23acdd79-73fa-4b9c-a288-80c88349f5f7}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{23acdd79-73fa-4b9c-a288-80c88349f5f7}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{24556854-2149-4306-9715-ef20939a4ab6}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{24556854-2149-4306-9715-ef20939a4ab6}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{24556854-2149-4306-9715-ef20939a4ab6}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{29e321a4-7095-4add-90be-929eec36c559}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{29e321a4-7095-4add-90be-929eec36c559}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{29e321a4-7095-4add-90be-929eec36c559}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{2a675b77-1c3f-4113-ba08-5564f3239e6b}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{2a675b77-1c3f-4113-ba08-5564f3239e6b}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{2a675b77-1c3f-4113-ba08-5564f3239e6b}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{2da67a0d-851d-4ea7-9346-e47e79bcd8aa}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{2da67a0d-851d-4ea7-9346-e47e79bcd8aa}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{2da67a0d-851d-4ea7-9346-e47e79bcd8aa}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{307db935-2be3-47b1-bcb1-0777469809d5}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{307db935-2be3-47b1-bcb1-0777469809d5}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{307db935-2be3-47b1-bcb1-0777469809d5}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{341f9ef0-8311-4620-9fc9-46082386700e}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{341f9ef0-8311-4620-9fc9-46082386700e}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{341f9ef0-8311-4620-9fc9-46082386700e}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{3790d0c3-828a-4f90-b28a-b9cf86feaa83}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{3790d0c3-828a-4f90-b28a-b9cf86feaa83}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{3790d0c3-828a-4f90-b28a-b9cf86feaa83}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{39a14b8e-be40-419d-90bb-c1a7039b21c4}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{39a14b8e-be40-419d-90bb-c1a7039b21c4}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{39a14b8e-be40-419d-90bb-c1a7039b21c4}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{39a678fb-a551-406c-bcaa-017e067ecc5f}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{39a678fb-a551-406c-bcaa-017e067ecc5f}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{39a678fb-a551-406c-bcaa-017e067ecc5f}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{3b4cd403-05ca-48ee-886c-90a7bfb85afd}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{3b4cd403-05ca-48ee-886c-90a7bfb85afd}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{3b4cd403-05ca-48ee-886c-90a7bfb85afd}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{3de4d6a5-a56c-486b-897d-b6909b423af6}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{3de4d6a5-a56c-486b-897d-b6909b423af6}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{3de4d6a5-a56c-486b-897d-b6909b423af6}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{3ea46764-8a9b-46c7-89f0-e83677ae1e8c}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{3ea46764-8a9b-46c7-89f0-e83677ae1e8c}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{3ea46764-8a9b-46c7-89f0-e83677ae1e8c}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{413fb510-4e58-47dc-aabd-21c50db7c989}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{413fb510-4e58-47dc-aabd-21c50db7c989}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{413fb510-4e58-47dc-aabd-21c50db7c989}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{4177affc-4d30-43cd-85ad-6b1b136dbe8c}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{4177affc-4d30-43cd-85ad-6b1b136dbe8c}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{4177affc-4d30-43cd-85ad-6b1b136dbe8c}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{494888ff-f884-4209-975c-1f96abb481d4}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{494888ff-f884-4209-975c-1f96abb481d4}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{494888ff-f884-4209-975c-1f96abb481d4}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{4cc42156-3f66-4f8e-b796-df44530863bf}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{4cc42156-3f66-4f8e-b796-df44530863bf}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{4cc42156-3f66-4f8e-b796-df44530863bf}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{4e0de6a5-3fa7-469b-bbbc-6342279c847b}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{4e0de6a5-3fa7-469b-bbbc-6342279c847b}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{4e0de6a5-3fa7-469b-bbbc-6342279c847b}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{4f2a1157-d551-4464-9d16-8d7fc734ad0c}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{4f2a1157-d551-4464-9d16-8d7fc734ad0c}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{4f2a1157-d551-4464-9d16-8d7fc734ad0c}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{4f71fe98-febb-4719-9ea5-1e1be835ceec}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{4f71fe98-febb-4719-9ea5-1e1be835ceec}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{4f71fe98-febb-4719-9ea5-1e1be835ceec}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{507e9ffb-656b-4c1c-b2be-f97217af5b14}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{507e9ffb-656b-4c1c-b2be-f97217af5b14}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{507e9ffb-656b-4c1c-b2be-f97217af5b14}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{5bc6090b-3cc1-4025-b183-28158231a468}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{5bc6090b-3cc1-4025-b183-28158231a468}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{5bc6090b-3cc1-4025-b183-28158231a468}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{5ca017d7-3455-459c-b273-a0168552001f}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{5ca017d7-3455-459c-b273-a0168552001f}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{5ca017d7-3455-459c-b273-a0168552001f}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{5d469cd5-2163-4303-b738-86168f3abfe3}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{5d469cd5-2163-4303-b738-86168f3abfe3}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{5d469cd5-2163-4303-b738-86168f3abfe3}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{5e6bfb8b-e785-4fc8-9e4d-9db311df8dfd}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{5e6bfb8b-e785-4fc8-9e4d-9db311df8dfd}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{5e6bfb8b-e785-4fc8-9e4d-9db311df8dfd}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{5ecf41ac-2b07-4298-9528-8c9a6ca3ef4a}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{5ecf41ac-2b07-4298-9528-8c9a6ca3ef4a}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{5ecf41ac-2b07-4298-9528-8c9a6ca3ef4a}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{63fc74bc-d47c-41f7-b959-d5650901aafd}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{63fc74bc-d47c-41f7-b959-d5650901aafd}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{63fc74bc-d47c-41f7-b959-d5650901aafd}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{64d60af3-eb20-4ba2-bdd8-f073d2bca0f4}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{64d60af3-eb20-4ba2-bdd8-f073d2bca0f4}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{64d60af3-eb20-4ba2-bdd8-f073d2bca0f4}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{6988d21d-ecfe-4fef-af22-6f5598b7ae26}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{6988d21d-ecfe-4fef-af22-6f5598b7ae26}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{6988d21d-ecfe-4fef-af22-6f5598b7ae26}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{6aabc340-327b-4419-a3e8-cc5136423b66}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{6aabc340-327b-4419-a3e8-cc5136423b66}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{6aabc340-327b-4419-a3e8-cc5136423b66}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{6c9e8143-7c1e-4adb-a279-d25c437a0488}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{6c9e8143-7c1e-4adb-a279-d25c437a0488}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{6c9e8143-7c1e-4adb-a279-d25c437a0488}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{6cd96de2-3aee-4fd2-ac31-f1a6ea6d8630}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{6cd96de2-3aee-4fd2-ac31-f1a6ea6d8630}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{6cd96de2-3aee-4fd2-ac31-f1a6ea6d8630}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{6fcbb083-88eb-4d11-b7af-adae61c8f93c}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{6fcbb083-88eb-4d11-b7af-adae61c8f93c}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{6fcbb083-88eb-4d11-b7af-adae61c8f93c}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{70547a19-92b5-452a-9e3f-11575d590946}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{70547a19-92b5-452a-9e3f-11575d590946}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{70547a19-92b5-452a-9e3f-11575d590946}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{7434d2b9-805c-4c94-a3ab-f7e739de1ba9}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{7434d2b9-805c-4c94-a3ab-f7e739de1ba9}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{7434d2b9-805c-4c94-a3ab-f7e739de1ba9}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{7467a10d-4db9-48a0-b3dd-2c20b1f67cbb}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{7467a10d-4db9-48a0-b3dd-2c20b1f67cbb}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{7467a10d-4db9-48a0-b3dd-2c20b1f67cbb}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{775406ad-d756-4bf6-adc9-9cf0f43c600e}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{775406ad-d756-4bf6-adc9-9cf0f43c600e}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{775406ad-d756-4bf6-adc9-9cf0f43c600e}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{838e50ba-bca6-46d7-b495-8a2f2cd8099b}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{838e50ba-bca6-46d7-b495-8a2f2cd8099b}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{838e50ba-bca6-46d7-b495-8a2f2cd8099b}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{846cafa8-404c-4bf0-9b9e-31254755dfee}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{846cafa8-404c-4bf0-9b9e-31254755dfee}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{846cafa8-404c-4bf0-9b9e-31254755dfee}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{86b9af6d-1579-415c-8d29-be237bddcb3e}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{86b9af6d-1579-415c-8d29-be237bddcb3e}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{86b9af6d-1579-415c-8d29-be237bddcb3e}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{87ab3b13-ccc4-4a9f-a15a-2ef3cf61b408}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{87ab3b13-ccc4-4a9f-a15a-2ef3cf61b408}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{87ab3b13-ccc4-4a9f-a15a-2ef3cf61b408}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{8a8aa1f9-c334-44ad-8e11-9501943752c8}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{8a8aa1f9-c334-44ad-8e11-9501943752c8}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{8a8aa1f9-c334-44ad-8e11-9501943752c8}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{8bf1af17-6e48-49a4-92e9-cb7006899330}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{8bf1af17-6e48-49a4-92e9-cb7006899330}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{8bf1af17-6e48-49a4-92e9-cb7006899330}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{93c7e2e8-9881-487f-95a5-82c49ca343ba}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{93c7e2e8-9881-487f-95a5-82c49ca343ba}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{93c7e2e8-9881-487f-95a5-82c49ca343ba}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{96585d97-154c-4117-85a4-173d6bc57c5d}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{96585d97-154c-4117-85a4-173d6bc57c5d}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{96585d97-154c-4117-85a4-173d6bc57c5d}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{9f0d9ec0-1833-4943-b82b-8ef10ffe814d}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{9f0d9ec0-1833-4943-b82b-8ef10ffe814d}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{9f0d9ec0-1833-4943-b82b-8ef10ffe814d}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{9f812c4d-2ccd-41d7-98f4-46ca610064aa}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{9f812c4d-2ccd-41d7-98f4-46ca610064aa}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{9f812c4d-2ccd-41d7-98f4-46ca610064aa}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{a440ddf5-a69f-4b42-b2e7-cca2b5e14269}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{a440ddf5-a69f-4b42-b2e7-cca2b5e14269}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{a440ddf5-a69f-4b42-b2e7-cca2b5e14269}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{a64bfaab-9c4b-4c13-9ed1-5947ef7e3bbb}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{a64bfaab-9c4b-4c13-9ed1-5947ef7e3bbb}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{a64bfaab-9c4b-4c13-9ed1-5947ef7e3bbb}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{a8aa02c3-c2ee-4895-9cda-58256b938d83}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{a8aa02c3-c2ee-4895-9cda-58256b938d83}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{a8aa02c3-c2ee-4895-9cda-58256b938d83}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{a8ce9535-3157-4ea5-9e02-303dc13c8651}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{a8ce9535-3157-4ea5-9e02-303dc13c8651}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{a8ce9535-3157-4ea5-9e02-303dc13c8651}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{ae24e7fb-4f16-40e3-85cc-2ca28c09e3b8}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{ae24e7fb-4f16-40e3-85cc-2ca28c09e3b8}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{ae24e7fb-4f16-40e3-85cc-2ca28c09e3b8}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{ae2b2a73-db69-4023-812e-eb650dd0903c}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{ae2b2a73-db69-4023-812e-eb650dd0903c}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{ae2b2a73-db69-4023-812e-eb650dd0903c}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{b0cf2196-c89e-4a4e-a737-13ad209c0bf6}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{b0cf2196-c89e-4a4e-a737-13ad209c0bf6}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{b0cf2196-c89e-4a4e-a737-13ad209c0bf6}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{b66c892d-f41f-4024-8660-48aafd2496f3}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{b66c892d-f41f-4024-8660-48aafd2496f3}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{b66c892d-f41f-4024-8660-48aafd2496f3}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{b797bff8-5714-41ad-83e3-8982816d7205}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{b797bff8-5714-41ad-83e3-8982816d7205}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{b797bff8-5714-41ad-83e3-8982816d7205}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{bd743163-8973-4824-bf83-fe61bf74b93e}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{bd743163-8973-4824-bf83-fe61bf74b93e}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{bd743163-8973-4824-bf83-fe61bf74b93e}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{bec30235-bf4a-4908-a8df-a00c080f36b7}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{bec30235-bf4a-4908-a8df-a00c080f36b7}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{bec30235-bf4a-4908-a8df-a00c080f36b7}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{c0e74d88-444c-4fd1-b0ec-2fb13c47ffbd}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{c0e74d88-444c-4fd1-b0ec-2fb13c47ffbd}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{c0e74d88-444c-4fd1-b0ec-2fb13c47ffbd}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{c248ab07-4018-43a7-b025-f8cf04d74185}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{c248ab07-4018-43a7-b025-f8cf04d74185}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{c248ab07-4018-43a7-b025-f8cf04d74185}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{c372df65-3c25-4d43-8aed-a36fdf74dc8f}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{c372df65-3c25-4d43-8aed-a36fdf74dc8f}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{c372df65-3c25-4d43-8aed-a36fdf74dc8f}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{c3747429-8571-477a-9b0b-ddc7f844230e}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{c3747429-8571-477a-9b0b-ddc7f844230e}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{c3747429-8571-477a-9b0b-ddc7f844230e}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{c4159960-1f95-430e-9fba-13023cb13aa8}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{c4159960-1f95-430e-9fba-13023cb13aa8}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{c4159960-1f95-430e-9fba-13023cb13aa8}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{c7a1c20e-2653-4f14-b761-583ec21aa12d}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{c7a1c20e-2653-4f14-b761-583ec21aa12d}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{c7a1c20e-2653-4f14-b761-583ec21aa12d}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{cb125f06-afc5-497a-881b-25543017c7ef}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{cb125f06-afc5-497a-881b-25543017c7ef}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{cb125f06-afc5-497a-881b-25543017c7ef}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{cbdd4821-ee3f-4c7a-81be-60f30bf1592b}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{cbdd4821-ee3f-4c7a-81be-60f30bf1592b}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{cbdd4821-ee3f-4c7a-81be-60f30bf1592b}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{cc84482a-ba1d-4d31-bb2b-c025e097717a}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{cc84482a-ba1d-4d31-bb2b-c025e097717a}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{cc84482a-ba1d-4d31-bb2b-c025e097717a}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{ccf99e4e-40a2-4c13-947e-26c2cd195a46}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{ccf99e4e-40a2-4c13-947e-26c2cd195a46}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{ccf99e4e-40a2-4c13-947e-26c2cd195a46}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{cea4f424-0bec-4993-8425-2ac396ec3b93}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{cea4f424-0bec-4993-8425-2ac396ec3b93}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{cea4f424-0bec-4993-8425-2ac396ec3b93}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{d0e552f4-6d1a-4288-b53f-f851cf59737c}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{d0e552f4-6d1a-4288-b53f-f851cf59737c}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{d0e552f4-6d1a-4288-b53f-f851cf59737c}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{d23b0ec1-e71e-447e-a7ba-ebd9ba22e262}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{d23b0ec1-e71e-447e-a7ba-ebd9ba22e262}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{d23b0ec1-e71e-447e-a7ba-ebd9ba22e262}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{d36d2821-d72f-4f8c-96ed-60050db24365}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{d36d2821-d72f-4f8c-96ed-60050db24365}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{d36d2821-d72f-4f8c-96ed-60050db24365}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{d3ad1a26-ca80-43d1-8df2-5fd3312a35da}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{d3ad1a26-ca80-43d1-8df2-5fd3312a35da}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{d3ad1a26-ca80-43d1-8df2-5fd3312a35da}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{d54764ef-0ad8-44f3-a7f7-47220022ce83}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{d54764ef-0ad8-44f3-a7f7-47220022ce83}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{d54764ef-0ad8-44f3-a7f7-47220022ce83}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{d72a9625-774c-4933-8f25-8d3c2c72186f}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{d72a9625-774c-4933-8f25-8d3c2c72186f}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{d72a9625-774c-4933-8f25-8d3c2c72186f}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{d8493845-bc5e-4528-b72c-e8f1171ea442}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{d8493845-bc5e-4528-b72c-e8f1171ea442}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{d8493845-bc5e-4528-b72c-e8f1171ea442}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{d8b9bbad-57ec-4429-bfb4-a9a6b88ca905}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{d8b9bbad-57ec-4429-bfb4-a9a6b88ca905}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{d8b9bbad-57ec-4429-bfb4-a9a6b88ca905}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{dc1b399a-74e7-4297-b5d4-347ff94461e1}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{dc1b399a-74e7-4297-b5d4-347ff94461e1}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{dc1b399a-74e7-4297-b5d4-347ff94461e1}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{dd0ce7d5-1d30-4120-979a-3683d41e2d2b}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{dd0ce7d5-1d30-4120-979a-3683d41e2d2b}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{dd0ce7d5-1d30-4120-979a-3683d41e2d2b}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{de71d059-fd5c-41c0-8100-3bd6999551f0}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{de71d059-fd5c-41c0-8100-3bd6999551f0}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{de71d059-fd5c-41c0-8100-3bd6999551f0}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{e2931900-fda8-423f-a98f-fa2e130c24cf}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{e2931900-fda8-423f-a98f-fa2e130c24cf}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{e2931900-fda8-423f-a98f-fa2e130c24cf}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{e2e6b6f7-580e-4d8a-93d5-6328493da22f}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{e2e6b6f7-580e-4d8a-93d5-6328493da22f}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{e2e6b6f7-580e-4d8a-93d5-6328493da22f}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{e32f6ff7-fbeb-4e47-8acd-37dcef266b67}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{e32f6ff7-fbeb-4e47-8acd-37dcef266b67}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{e32f6ff7-fbeb-4e47-8acd-37dcef266b67}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{e4c08c52-4fe6-4f85-984d-156a1e846694}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{e4c08c52-4fe6-4f85-984d-156a1e846694}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{e4c08c52-4fe6-4f85-984d-156a1e846694}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{e5203795-5531-4326-9318-c1d22ff6bd0c}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{e5203795-5531-4326-9318-c1d22ff6bd0c}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{e5203795-5531-4326-9318-c1d22ff6bd0c}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{e5e1eb2a-c693-4874-86fc-eb6e70ea359e}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{e5e1eb2a-c693-4874-86fc-eb6e70ea359e}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{e5e1eb2a-c693-4874-86fc-eb6e70ea359e}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{e6aa78df-f811-4b03-9b84-82fc066345e8}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{e6aa78df-f811-4b03-9b84-82fc066345e8}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{e6aa78df-f811-4b03-9b84-82fc066345e8}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{e8629062-cfd0-417f-9a32-91cbc2ec9b32}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{e8629062-cfd0-417f-9a32-91cbc2ec9b32}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{e8629062-cfd0-417f-9a32-91cbc2ec9b32}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{eda4be5a-ba38-485a-aa3a-cb9592778ff9}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{eda4be5a-ba38-485a-aa3a-cb9592778ff9}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{eda4be5a-ba38-485a-aa3a-cb9592778ff9}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{f1101a65-daa3-434f-a66e-aa4e35a04659}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{f1101a65-daa3-434f-a66e-aa4e35a04659}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{f1101a65-daa3-434f-a66e-aa4e35a04659}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{f1a1d4e0-5136-48bf-8f5c-ba21070a212e}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{f1a1d4e0-5136-48bf-8f5c-ba21070a212e}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{f1a1d4e0-5136-48bf-8f5c-ba21070a212e}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{f42946c9-5783-40f5-8abb-44edc58ea579}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{f42946c9-5783-40f5-8abb-44edc58ea579}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{f42946c9-5783-40f5-8abb-44edc58ea579}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{f47f1fcb-3757-4f86-8e9c-cbb18ad5d8df}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{f47f1fcb-3757-4f86-8e9c-cbb18ad5d8df}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{f47f1fcb-3757-4f86-8e9c-cbb18ad5d8df}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{f55bf8f7-4a75-44d1-821a-52a270979225}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{f55bf8f7-4a75-44d1-821a-52a270979225}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{f55bf8f7-4a75-44d1-821a-52a270979225}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{f6eecf27-57bd-41e4-8a23-29ad862c55c7}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{f6eecf27-57bd-41e4-8a23-29ad862c55c7}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{f6eecf27-57bd-41e4-8a23-29ad862c55c7}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{f702b9fe-d7f0-4c71-a34f-984e103b8d1d}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{f702b9fe-d7f0-4c71-a34f-984e103b8d1d}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{f702b9fe-d7f0-4c71-a34f-984e103b8d1d}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{f9bf8b8d-cbfa-4310-b0a7-47237ba81c0a}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{f9bf8b8d-cbfa-4310-b0a7-47237ba81c0a}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{f9bf8b8d-cbfa-4310-b0a7-47237ba81c0a}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{fe1c8d46-ddc9-4be4-a4d6-64cff6fc13e6}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{fe1c8d46-ddc9-4be4-a4d6-64cff6fc13e6}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{fe1c8d46-ddc9-4be4-a4d6-64cff6fc13e6}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{ff3044af-8d84-41fd-be29-a12ff824b9bf}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Asset\{ff3044af-8d84-41fd-be29-a12ff824b9bf}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Asset\{ff3044af-8d84-41fd-be29-a12ff824b9bf}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{00ca8c47-13d4-4ddc-bb37-cda7fb32182b}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{00ca8c47-13d4-4ddc-bb37-cda7fb32182b}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{00ca8c47-13d4-4ddc-bb37-cda7fb32182b}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{0adcfc55-a3a2-4b29-8881-6d4db23ae6d6}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{0adcfc55-a3a2-4b29-8881-6d4db23ae6d6}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{0adcfc55-a3a2-4b29-8881-6d4db23ae6d6}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{0c3fc62c-0e5d-4253-8e06-cb2121b129a6}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{0c3fc62c-0e5d-4253-8e06-cb2121b129a6}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{0c3fc62c-0e5d-4253-8e06-cb2121b129a6}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{0caa74a4-b7e0-469b-912a-f18026838c78}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{0caa74a4-b7e0-469b-912a-f18026838c78}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{0caa74a4-b7e0-469b-912a-f18026838c78}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{0d6d0411-6c71-48f7-a7b3-f4d302bf826e}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{0d6d0411-6c71-48f7-a7b3-f4d302bf826e}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{0d6d0411-6c71-48f7-a7b3-f4d302bf826e}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{0f4a6890-b441-47f7-aa3f-f9a3536c3350}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{0f4a6890-b441-47f7-aa3f-f9a3536c3350}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{0f4a6890-b441-47f7-aa3f-f9a3536c3350}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{12310991-611a-49a1-ab0b-81dbc7dbf7da}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{12310991-611a-49a1-ab0b-81dbc7dbf7da}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{12310991-611a-49a1-ab0b-81dbc7dbf7da}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{1705257c-9496-4764-9c25-49fc5cd97632}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{1705257c-9496-4764-9c25-49fc5cd97632}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{1705257c-9496-4764-9c25-49fc5cd97632}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{1acf7148-6805-44c0-bd4c-fab890d32b66}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{1acf7148-6805-44c0-bd4c-fab890d32b66}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{1acf7148-6805-44c0-bd4c-fab890d32b66}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{1cb9b8be-99ac-4563-ba91-cfa508359ab1}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{1cb9b8be-99ac-4563-ba91-cfa508359ab1}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{1cb9b8be-99ac-4563-ba91-cfa508359ab1}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{1e494131-0bb2-4cf1-b4a7-b8ffc976eaaa}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{1e494131-0bb2-4cf1-b4a7-b8ffc976eaaa}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{1e494131-0bb2-4cf1-b4a7-b8ffc976eaaa}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{23dfb64e-1784-4238-9f01-775d687ea6d2}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{23dfb64e-1784-4238-9f01-775d687ea6d2}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{23dfb64e-1784-4238-9f01-775d687ea6d2}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{293cb4bd-80e9-48d2-baa0-5bbb0c78da77}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{293cb4bd-80e9-48d2-baa0-5bbb0c78da77}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{293cb4bd-80e9-48d2-baa0-5bbb0c78da77}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{2a652206-7e11-4785-9a4b-804573fbaa21}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{2a652206-7e11-4785-9a4b-804573fbaa21}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{2a652206-7e11-4785-9a4b-804573fbaa21}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{2f92fd73-2ffb-42d3-bcea-be085dec1f55}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{2f92fd73-2ffb-42d3-bcea-be085dec1f55}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{2f92fd73-2ffb-42d3-bcea-be085dec1f55}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{30de3cfb-697c-435d-8ef6-4f4f30b781c7}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{30de3cfb-697c-435d-8ef6-4f4f30b781c7}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{30de3cfb-697c-435d-8ef6-4f4f30b781c7}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{32c5b761-a3aa-44a2-9b8a-fac76b2029ad}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{32c5b761-a3aa-44a2-9b8a-fac76b2029ad}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{32c5b761-a3aa-44a2-9b8a-fac76b2029ad}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{345c8586-ac17-4716-88a2-78d6644476ec}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{345c8586-ac17-4716-88a2-78d6644476ec}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{345c8586-ac17-4716-88a2-78d6644476ec}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{3559697b-9024-4649-8571-b64770ba6ed7}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{3559697b-9024-4649-8571-b64770ba6ed7}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{3559697b-9024-4649-8571-b64770ba6ed7}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{37390d7c-156a-4c5f-a4ce-f3e3704d27af}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{37390d7c-156a-4c5f-a4ce-f3e3704d27af}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{37390d7c-156a-4c5f-a4ce-f3e3704d27af}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{37648ba1-9917-4cec-bfc8-0285bc3e52ae}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{37648ba1-9917-4cec-bfc8-0285bc3e52ae}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{37648ba1-9917-4cec-bfc8-0285bc3e52ae}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{377ebe2a-aaf9-4937-9955-a5b74fc10ad7}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{377ebe2a-aaf9-4937-9955-a5b74fc10ad7}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{377ebe2a-aaf9-4937-9955-a5b74fc10ad7}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{38815966-3ea8-4c0f-b2e8-a4f0de2105b3}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{38815966-3ea8-4c0f-b2e8-a4f0de2105b3}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{38815966-3ea8-4c0f-b2e8-a4f0de2105b3}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{3a3bf3ef-b233-4b5f-9ef3-38a7f67e343c}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{3a3bf3ef-b233-4b5f-9ef3-38a7f67e343c}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{3a3bf3ef-b233-4b5f-9ef3-38a7f67e343c}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{3b152417-0ab3-463e-888f-3e197e842d49}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{3b152417-0ab3-463e-888f-3e197e842d49}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{3b152417-0ab3-463e-888f-3e197e842d49}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{4d12fe16-9fed-44e8-b23e-da60710143d4}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{4d12fe16-9fed-44e8-b23e-da60710143d4}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{4d12fe16-9fed-44e8-b23e-da60710143d4}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{5129cc3a-55e6-400f-93fc-2f2d2df4d46d}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{5129cc3a-55e6-400f-93fc-2f2d2df4d46d}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{5129cc3a-55e6-400f-93fc-2f2d2df4d46d}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{557e1b00-333b-44de-9897-c27635800654}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{557e1b00-333b-44de-9897-c27635800654}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{557e1b00-333b-44de-9897-c27635800654}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{572ea097-5363-447e-9bb0-15db5c53fee4}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{572ea097-5363-447e-9bb0-15db5c53fee4}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{572ea097-5363-447e-9bb0-15db5c53fee4}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{57f48b9d-108a-417f-a6b5-746266aafa2c}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{57f48b9d-108a-417f-a6b5-746266aafa2c}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{57f48b9d-108a-417f-a6b5-746266aafa2c}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{5d43017c-af29-4851-ba8c-a3cc1756993a}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{5d43017c-af29-4851-ba8c-a3cc1756993a}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{5d43017c-af29-4851-ba8c-a3cc1756993a}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{6061f0ed-3840-4148-8f18-16cffd9a30a2}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{6061f0ed-3840-4148-8f18-16cffd9a30a2}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{6061f0ed-3840-4148-8f18-16cffd9a30a2}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{633e95b5-ad15-492a-8a66-95f63555cd3c}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{633e95b5-ad15-492a-8a66-95f63555cd3c}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{633e95b5-ad15-492a-8a66-95f63555cd3c}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{636ad5bb-4a82-47e7-b9e5-f197cb0fd4a7}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{636ad5bb-4a82-47e7-b9e5-f197cb0fd4a7}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{636ad5bb-4a82-47e7-b9e5-f197cb0fd4a7}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{6415e363-cdc5-448e-a90e-02b33dd6f6a4}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{6415e363-cdc5-448e-a90e-02b33dd6f6a4}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{6415e363-cdc5-448e-a90e-02b33dd6f6a4}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{66a68232-1766-45f7-8af7-8e2e543b689b}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{66a68232-1766-45f7-8af7-8e2e543b689b}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{66a68232-1766-45f7-8af7-8e2e543b689b}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{72a0924b-0a14-412e-8ea1-dd3e3e89f666}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{72a0924b-0a14-412e-8ea1-dd3e3e89f666}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{72a0924b-0a14-412e-8ea1-dd3e3e89f666}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{73a31096-4102-43f4-be38-c0c266475afd}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{73a31096-4102-43f4-be38-c0c266475afd}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{73a31096-4102-43f4-be38-c0c266475afd}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{74e1106a-524a-4726-ae69-52ecc7e2c215}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{74e1106a-524a-4726-ae69-52ecc7e2c215}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{74e1106a-524a-4726-ae69-52ecc7e2c215}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{74ee35b6-1a5b-4cb3-ac8a-3668ae9ee228}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{74ee35b6-1a5b-4cb3-ac8a-3668ae9ee228}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{74ee35b6-1a5b-4cb3-ac8a-3668ae9ee228}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{7670d984-58ff-476a-8f5b-43c4b6077035}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{7670d984-58ff-476a-8f5b-43c4b6077035}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{7670d984-58ff-476a-8f5b-43c4b6077035}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{76da1df0-2942-49a7-9e48-3dcf14369d94}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{76da1df0-2942-49a7-9e48-3dcf14369d94}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{76da1df0-2942-49a7-9e48-3dcf14369d94}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{7aa1fb1c-24a7-4ba3-8bc7-c4dbcdc44fef}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{7aa1fb1c-24a7-4ba3-8bc7-c4dbcdc44fef}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{7aa1fb1c-24a7-4ba3-8bc7-c4dbcdc44fef}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{7b566813-9b0b-4daf-a0a3-c561cec4d85b}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{7b566813-9b0b-4daf-a0a3-c561cec4d85b}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{7b566813-9b0b-4daf-a0a3-c561cec4d85b}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{865b674c-532b-4094-b408-fcd7f86bca53}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{865b674c-532b-4094-b408-fcd7f86bca53}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{865b674c-532b-4094-b408-fcd7f86bca53}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{884a18d9-6ae2-44f7-b19d-30454da8bb04}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{884a18d9-6ae2-44f7-b19d-30454da8bb04}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{884a18d9-6ae2-44f7-b19d-30454da8bb04}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{889a4a59-7fab-4107-b78d-d4adda0c873c}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{889a4a59-7fab-4107-b78d-d4adda0c873c}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{889a4a59-7fab-4107-b78d-d4adda0c873c}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{8fadc518-d0ea-4bf3-8e0c-6be982681604}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{8fadc518-d0ea-4bf3-8e0c-6be982681604}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{8fadc518-d0ea-4bf3-8e0c-6be982681604}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{984fac38-9908-43fc-bca7-ea9f68ed7e27}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{984fac38-9908-43fc-bca7-ea9f68ed7e27}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{984fac38-9908-43fc-bca7-ea9f68ed7e27}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{c8ce46dc-cd74-4083-9690-1e593f65fcf9}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{c8ce46dc-cd74-4083-9690-1e593f65fcf9}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{c8ce46dc-cd74-4083-9690-1e593f65fcf9}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{c9e3825f-7551-4785-9726-b0618cb794e2}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{c9e3825f-7551-4785-9726-b0618cb794e2}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{c9e3825f-7551-4785-9726-b0618cb794e2}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{cb1474c1-fe8e-4fe7-8ff6-1e8a53c855cf}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{cb1474c1-fe8e-4fe7-8ff6-1e8a53c855cf}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{cb1474c1-fe8e-4fe7-8ff6-1e8a53c855cf}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{cc208e80-c2f2-4cc2-bffc-0a1e4dfb6b58}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{cc208e80-c2f2-4cc2-bffc-0a1e4dfb6b58}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{cc208e80-c2f2-4cc2-bffc-0a1e4dfb6b58}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{cd7154ba-5d23-4e91-8602-e7b62cb0f902}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{cd7154ba-5d23-4e91-8602-e7b62cb0f902}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{cd7154ba-5d23-4e91-8602-e7b62cb0f902}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{cdd1a645-b929-45a0-9820-9ec25f49c769}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{cdd1a645-b929-45a0-9820-9ec25f49c769}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{cdd1a645-b929-45a0-9820-9ec25f49c769}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{cdf5a50e-4c07-4c8a-877c-ad7ec7975564}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{cdf5a50e-4c07-4c8a-877c-ad7ec7975564}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{cdf5a50e-4c07-4c8a-877c-ad7ec7975564}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{d06d32b6-a33e-4e21-9b52-cd97ef86a294}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{d06d32b6-a33e-4e21-9b52-cd97ef86a294}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{d06d32b6-a33e-4e21-9b52-cd97ef86a294}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{d3ba5af4-5650-481a-81fa-19af419ab61a}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{d3ba5af4-5650-481a-81fa-19af419ab61a}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{d3ba5af4-5650-481a-81fa-19af419ab61a}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{d4af9795-214b-4bbe-8a6c-2aeebad7a0c2}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{d4af9795-214b-4bbe-8a6c-2aeebad7a0c2}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{d4af9795-214b-4bbe-8a6c-2aeebad7a0c2}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{d8558905-0a67-40a6-90c9-c3e0f05a5254}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{d8558905-0a67-40a6-90c9-c3e0f05a5254}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{d8558905-0a67-40a6-90c9-c3e0f05a5254}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{e06670d8-bd73-40c6-a440-06ea8f9f6635}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{e06670d8-bd73-40c6-a440-06ea8f9f6635}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{e06670d8-bd73-40c6-a440-06ea8f9f6635}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{e36667ee-9f74-4df4-a14a-56b00db91b44}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{e36667ee-9f74-4df4-a14a-56b00db91b44}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{e36667ee-9f74-4df4-a14a-56b00db91b44}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{e4cbf2e4-299d-4cbc-8492-c50292cbce00}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{e4cbf2e4-299d-4cbc-8492-c50292cbce00}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{e4cbf2e4-299d-4cbc-8492-c50292cbce00}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{e5978a92-a498-4f88-a28d-0550ddff8db0}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{e5978a92-a498-4f88-a28d-0550ddff8db0}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{e5978a92-a498-4f88-a28d-0550ddff8db0}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{eb898f28-99bf-48c8-b10a-b765f5934baa}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{eb898f28-99bf-48c8-b10a-b765f5934baa}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{eb898f28-99bf-48c8-b10a-b765f5934baa}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{ed2b44d1-0989-4c9c-9736-123395f56004}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{ed2b44d1-0989-4c9c-9736-123395f56004}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{ed2b44d1-0989-4c9c-9736-123395f56004}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{ed9dde82-1009-4d7e-8bf6-1f62fb1d3a80}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{ed9dde82-1009-4d7e-8bf6-1f62fb1d3a80}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{ed9dde82-1009-4d7e-8bf6-1f62fb1d3a80}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{efa20f15-a265-4a42-996b-c7f08555ebe4}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{efa20f15-a265-4a42-996b-c7f08555ebe4}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{efa20f15-a265-4a42-996b-c7f08555ebe4}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{f170ab39-0cd4-47c6-a1dc-62f15c201761}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{f170ab39-0cd4-47c6-a1dc-62f15c201761}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{f170ab39-0cd4-47c6-a1dc-62f15c201761}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{f4fa50a6-5276-42d5-a7fc-f4de3e85c56c}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{f4fa50a6-5276-42d5-a7fc-f4de3e85c56c}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{f4fa50a6-5276-42d5-a7fc-f4de3e85c56c}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{f5999c96-672c-4348-b378-2f94164774b7}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{f5999c96-672c-4348-b378-2f94164774b7}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{f5999c96-672c-4348-b378-2f94164774b7}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{f652461f-514e-42bf-bd6c-708e41735e71}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{f652461f-514e-42bf-bd6c-708e41735e71}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{f652461f-514e-42bf-bd6c-708e41735e71}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{f7493bef-2fe6-4adb-9cd5-55e2bb404cdc}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{f7493bef-2fe6-4adb-9cd5-55e2bb404cdc}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{f7493bef-2fe6-4adb-9cd5-55e2bb404cdc}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{fd2145ba-44a0-4ff0-acc1-dac14a1b5291}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\AudioFile\{fd2145ba-44a0-4ff0-acc1-dac14a1b5291}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\AudioFile\{fd2145ba-44a0-4ff0-acc1-dac14a1b5291}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Bank\{1c6d8f76-cd3e-4d81-9cba-3cf686a7bfd7}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Bank\{1c6d8f76-cd3e-4d81-9cba-3cf686a7bfd7}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Bank\{1c6d8f76-cd3e-4d81-9cba-3cf686a7bfd7}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Bank\{65f6901b-9eae-4e79-b6a8-9d45ce2d1440}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Bank\{65f6901b-9eae-4e79-b6a8-9d45ce2d1440}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Bank\{65f6901b-9eae-4e79-b6a8-9d45ce2d1440}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Bank\{905ef1d5-8db1-4398-b6ff-ef7c9643e2ac}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Bank\{905ef1d5-8db1-4398-b6ff-ef7c9643e2ac}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Bank\{905ef1d5-8db1-4398-b6ff-ef7c9643e2ac}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\BankFolder\{f34dccca-5b39-4756-a6ec-980e5e476766}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\BankFolder\{f34dccca-5b39-4756-a6ec-980e5e476766}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\BankFolder\{f34dccca-5b39-4756-a6ec-980e5e476766}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\EffectPresetFolder\{3c223af2-b949-4ecd-84f8-377bb1a10b42}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\EffectPresetFolder\{3c223af2-b949-4ecd-84f8-377bb1a10b42}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\EffectPresetFolder\{3c223af2-b949-4ecd-84f8-377bb1a10b42}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\EncodingSetting\{ad74d4a4-8eac-4af0-b19c-4f36901649fa}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\EncodingSetting\{ad74d4a4-8eac-4af0-b19c-4f36901649fa}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\EncodingSetting\{ad74d4a4-8eac-4af0-b19c-4f36901649fa}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{02b6b878-b4e9-4dcd-958b-60427f100010}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{02b6b878-b4e9-4dcd-958b-60427f100010}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{02b6b878-b4e9-4dcd-958b-60427f100010}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{0e890300-c58c-4a75-b34c-4593f6be931d}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{0e890300-c58c-4a75-b34c-4593f6be931d}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{0e890300-c58c-4a75-b34c-4593f6be931d}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{186ca980-b21a-401a-94ae-d6546ee6300b}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{186ca980-b21a-401a-94ae-d6546ee6300b}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{186ca980-b21a-401a-94ae-d6546ee6300b}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{1abcd158-4c9c-4e92-83c9-4d424e1e4d37}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{1abcd158-4c9c-4e92-83c9-4d424e1e4d37}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{1abcd158-4c9c-4e92-83c9-4d424e1e4d37}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{26d6d586-0e85-4146-8b5b-3c010506cf48}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{26d6d586-0e85-4146-8b5b-3c010506cf48}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{26d6d586-0e85-4146-8b5b-3c010506cf48}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{2dcf06b5-40a0-4f35-8eb0-f66e163fc689}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{2dcf06b5-40a0-4f35-8eb0-f66e163fc689}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{2dcf06b5-40a0-4f35-8eb0-f66e163fc689}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{2e16d7d2-319e-4043-9edf-493780f048d1}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{2e16d7d2-319e-4043-9edf-493780f048d1}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{2e16d7d2-319e-4043-9edf-493780f048d1}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{360aaaed-c423-4669-894c-9241b88e5c09}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{360aaaed-c423-4669-894c-9241b88e5c09}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{360aaaed-c423-4669-894c-9241b88e5c09}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{3c621956-eff8-42a3-a920-c1d14faa2f14}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{3c621956-eff8-42a3-a920-c1d14faa2f14}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{3c621956-eff8-42a3-a920-c1d14faa2f14}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{5ca5f407-0eca-43bb-91e5-6de82949fda9}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{5ca5f407-0eca-43bb-91e5-6de82949fda9}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{5ca5f407-0eca-43bb-91e5-6de82949fda9}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{5cc0827e-18b3-463c-9e6a-7a55cc9d6f7e}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{5cc0827e-18b3-463c-9e6a-7a55cc9d6f7e}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{5cc0827e-18b3-463c-9e6a-7a55cc9d6f7e}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{6ed412ae-25a8-4504-91a6-76d7cec2e489}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{6ed412ae-25a8-4504-91a6-76d7cec2e489}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{6ed412ae-25a8-4504-91a6-76d7cec2e489}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{8da7c19d-2dbe-4701-86e3-e25152198cd1}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{8da7c19d-2dbe-4701-86e3-e25152198cd1}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{8da7c19d-2dbe-4701-86e3-e25152198cd1}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{8ec9abb7-0137-4cbd-8cdc-5cb048821a14}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{8ec9abb7-0137-4cbd-8cdc-5cb048821a14}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{8ec9abb7-0137-4cbd-8cdc-5cb048821a14}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{91e76672-dc90-4398-9d57-01b7c9c72685}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{91e76672-dc90-4398-9d57-01b7c9c72685}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{91e76672-dc90-4398-9d57-01b7c9c72685}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{b20cb035-bc28-4c0e-b72a-abd9ceed947a}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{b20cb035-bc28-4c0e-b72a-abd9ceed947a}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{b20cb035-bc28-4c0e-b72a-abd9ceed947a}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{c422a703-1233-493a-83be-bfc49863668b}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{c422a703-1233-493a-83be-bfc49863668b}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{c422a703-1233-493a-83be-bfc49863668b}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{d1e1927e-fbe7-4ded-8db9-67acdf1d014d}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{d1e1927e-fbe7-4ded-8db9-67acdf1d014d}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{d1e1927e-fbe7-4ded-8db9-67acdf1d014d}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{d5262da9-94be-44be-a047-53f9e83fa8a9}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{d5262da9-94be-44be-a047-53f9e83fa8a9}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{d5262da9-94be-44be-a047-53f9e83fa8a9}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{ddb45bbf-47e5-41d7-b1fb-8140e0e5b735}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{ddb45bbf-47e5-41d7-b1fb-8140e0e5b735}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{ddb45bbf-47e5-41d7-b1fb-8140e0e5b735}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{e7e86360-40ce-4ef1-a870-7c4730a37e4f}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{e7e86360-40ce-4ef1-a870-7c4730a37e4f}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{e7e86360-40ce-4ef1-a870-7c4730a37e4f}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{ec566efe-a85c-4e43-bd5f-d92fa50baada}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{ec566efe-a85c-4e43-bd5f-d92fa50baada}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{ec566efe-a85c-4e43-bd5f-d92fa50baada}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{f5135f62-a13c-454d-ad33-502d69031eca}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Event\{f5135f62-a13c-454d-ad33-502d69031eca}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Event\{f5135f62-a13c-454d-ad33-502d69031eca}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\EventFolder\{176ff61a-49e6-4267-b06a-64fce7f234dd}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\EventFolder\{176ff61a-49e6-4267-b06a-64fce7f234dd}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\EventFolder\{176ff61a-49e6-4267-b06a-64fce7f234dd}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\EventFolder\{74d041d4-ca74-4d62-af40-079e462dd889}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\EventFolder\{74d041d4-ca74-4d62-af40-079e462dd889}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\EventFolder\{74d041d4-ca74-4d62-af40-079e462dd889}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\EventFolder\{beaaf8a4-2157-4242-ab9c-7ac685004c77}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\EventFolder\{beaaf8a4-2157-4242-ab9c-7ac685004c77}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\EventFolder\{beaaf8a4-2157-4242-ab9c-7ac685004c77}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\EventFolder\{e8dc7136-41e0-4951-bcd6-3c813c769428}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\EventFolder\{e8dc7136-41e0-4951-bcd6-3c813c769428}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\EventFolder\{e8dc7136-41e0-4951-bcd6-3c813c769428}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Master.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Master.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Master.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Mixer.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Mixer.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Mixer.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\ParameterPreset\{f1203f16-099d-4628-8a2a-c71e627b86c9}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\ParameterPreset\{f1203f16-099d-4628-8a2a-c71e627b86c9}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\ParameterPreset\{f1203f16-099d-4628-8a2a-c71e627b86c9}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\ParameterPresetFolder\{304b511c-29e7-42c0-b87d-65870f969ea6}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\ParameterPresetFolder\{304b511c-29e7-42c0-b87d-65870f969ea6}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\ParameterPresetFolder\{304b511c-29e7-42c0-b87d-65870f969ea6}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Platform\{8b852188-fa9e-45d1-82bb-e2086d8eb0c2}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Platform\{8b852188-fa9e-45d1-82bb-e2086d8eb0c2}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Platform\{8b852188-fa9e-45d1-82bb-e2086d8eb0c2}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\ProfilerFolder\{1f9cd94e-32e2-4382-9a97-a94eb14e8e25}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\ProfilerFolder\{1f9cd94e-32e2-4382-9a97-a94eb14e8e25}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\ProfilerFolder\{1f9cd94e-32e2-4382-9a97-a94eb14e8e25}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Return\{2d4f0539-5910-4a22-aa40-931b117b0a1f}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Return\{2d4f0539-5910-4a22-aa40-931b117b0a1f}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Return\{2d4f0539-5910-4a22-aa40-931b117b0a1f}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\SandboxFolder\{563f85e4-9175-4ca2-9a84-0b312db04f92}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\SandboxFolder\{563f85e4-9175-4ca2-9a84-0b312db04f92}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\SandboxFolder\{563f85e4-9175-4ca2-9a84-0b312db04f92}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\SnapshotGroup\{c47d5200-6bf7-4b69-81b0-a040f7995dd5}.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\SnapshotGroup\{c47d5200-6bf7-4b69-81b0-a040f7995dd5}.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\SnapshotGroup\{c47d5200-6bf7-4b69-81b0-a040f7995dd5}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Tags.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Tags.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Tags.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Workspace.xml
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\FMODAssets\Manasoup
+      Gamejam Version 2.01\Metadata\Workspace.xml
+    projectPath: FMODAssets\Manasoup Gamejam Version 2.01\Metadata\Workspace.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitHub\ManasoupGameJam\FMODAssets\Desktop\Music.bank
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\GitHub\ManasoupGameJam\FMODAssets\Desktop\Music.bank
+    projectPath: GitHub\ManasoupGameJam\FMODAssets\Desktop\Music.bank
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitHub\ManasoupGameJam\FMODAssets\Desktop\Music.strings.bank
+    fullPath: M:\Unity\Projekt\2D\AlsWirUnsNochKannten\ManasoupGameJam\GitHub\ManasoupGameJam\FMODAssets\Desktop\Music.strings.bank
+    projectPath: GitHub\ManasoupGameJam\FMODAssets\Desktop\Music.strings.bank
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

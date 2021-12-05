@@ -16,10 +16,10 @@ TextureImporter:
     second: "K\xFCcheObjekte_4"
   - first:
       213: 5413621456118621958
-    second: "K\xFCcheObjekte_6"
+    second: Keksdose
   - first:
       213: -267747815022275902
-    second: "K\xFCcheObjekte_7"
+    second: Topf
   - first:
       213: -3251905547678887558
     second: "K\xFCcheObjekte_8"
@@ -31,7 +31,7 @@ TextureImporter:
     second: "K\xFCcheObjekte_10"
   - first:
       213: 8390515853399397782
-    second: "K\xFCcheObjekte_11"
+    second: Handschuhe
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -129,7 +129,7 @@ TextureImporter:
         width: 71
         height: 126
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -150,7 +150,7 @@ TextureImporter:
         width: 121
         height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -171,7 +171,7 @@ TextureImporter:
         width: 122
         height: 147
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -192,7 +192,7 @@ TextureImporter:
         width: 122
         height: 147
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -205,7 +205,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "K\xFCcheObjekte_6"
+      name: Keksdose
       rect:
         serializedVersion: 2
         x: 793
@@ -213,7 +213,7 @@ TextureImporter:
         width: 73
         height: 114
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -226,7 +226,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "K\xFCcheObjekte_7"
+      name: Topf
       rect:
         serializedVersion: 2
         x: 1066
@@ -234,7 +234,7 @@ TextureImporter:
         width: 155
         height: 106
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -255,7 +255,7 @@ TextureImporter:
         width: 221
         height: 116
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -276,7 +276,7 @@ TextureImporter:
         width: 99
         height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -297,7 +297,7 @@ TextureImporter:
         width: 131
         height: 187
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -310,7 +310,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "K\xFCcheObjekte_11"
+      name: Handschuhe
       rect:
         serializedVersion: 2
         x: 1249
@@ -318,7 +318,7 @@ TextureImporter:
         width: 113
         height: 142
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

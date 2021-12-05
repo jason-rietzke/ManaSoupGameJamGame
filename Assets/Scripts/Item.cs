@@ -7,9 +7,15 @@ public class Item : MonoBehaviour
 {
   
     public int itemID;
+
+    public int posID;
+    public int negID;
+
     public bool onDesk = false;
     public bool picked = false;
-
+    [Header ("RememberTexts")]
+    public string posText;
+    public string negText;
 
     //Inventar
   
