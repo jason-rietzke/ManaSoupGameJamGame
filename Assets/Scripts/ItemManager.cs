@@ -168,6 +168,7 @@ public class ItemManager : MonoBehaviour
         {
             StartCoroutine(Wait(10));
             //positiv Audio
+            //FMODUnity.RuntimeManager.PlayOneshot(EventRef, GetComponent<Transform>().position);
             rememberCount++;
             animTextBG.SetTrigger("FadeIn");
             rememberTextfield.text = (boxA_Item.posText + boxB_Item.posText);
