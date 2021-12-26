@@ -371,19 +371,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 52544610}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 52544608}
-        m_TargetAssemblyTypeName: Item, Assembly-CSharp
-        m_MethodName: Pickup
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &52544610
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -587,19 +575,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 102447289}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 102447291}
-        m_TargetAssemblyTypeName: Item, Assembly-CSharp
-        m_MethodName: Pickup
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &102447289
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -841,19 +817,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 156799150}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 156799152}
-        m_TargetAssemblyTypeName: Item, Assembly-CSharp
-        m_MethodName: Pickup
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &156799150
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1655,19 +1619,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 276296611}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 276296613}
-        m_TargetAssemblyTypeName: Item, Assembly-CSharp
-        m_MethodName: Pickup
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &276296611
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2090,19 +2042,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 387142458}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 387142456}
-        m_TargetAssemblyTypeName: Item, Assembly-CSharp
-        m_MethodName: Pickup
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &387142458
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2534,19 +2474,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 517288775}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 517288773}
-        m_TargetAssemblyTypeName: Item, Assembly-CSharp
-        m_MethodName: Pickup
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &517288775
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2957,7 +2885,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PlayerID: 2
   alarmTextBox: {fileID: 1109807907}
-  alarmtext: Ein Gegenstand wurde in eine Box gelegt.
   roomchangeCS: {fileID: 1265304376}
   itemID: 0
   inventarFull: 0
@@ -3014,7 +2941,6 @@ MonoBehaviour:
   empty: {fileID: 21300000, guid: 29585e8de9c10704980c5693f4cea0a9, type: 3}
   rememberTextfield: {fileID: 1223903271}
   neutralText: Ich habe keine Erinnerung dazu.
-  rememberCount: 0
   animReminder: {fileID: 165564861}
   animTextBG: {fileID: 1425964384}
 --- !u!222 &564413557
@@ -3140,19 +3066,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 578578059}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 578578057}
-        m_TargetAssemblyTypeName: Item, Assembly-CSharp
-        m_MethodName: Pickup
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &578578059
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3306,19 +3220,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 600506714}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 600506712}
-        m_TargetAssemblyTypeName: Item, Assembly-CSharp
-        m_MethodName: Pickup
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &600506714
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3812,19 +3714,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 737053172}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 737053170}
-        m_TargetAssemblyTypeName: Item, Assembly-CSharp
-        m_MethodName: Pickup
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &737053172
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5166,19 +5056,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1006233705}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1006233707}
-        m_TargetAssemblyTypeName: Item, Assembly-CSharp
-        m_MethodName: Pickup
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1006233705
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5636,19 +5514,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1182447328}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1182447326}
-        m_TargetAssemblyTypeName: Item, Assembly-CSharp
-        m_MethodName: Pickup
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1182447328
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6882,19 +6748,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1473082718}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1473082716}
-        m_TargetAssemblyTypeName: Item, Assembly-CSharp
-        m_MethodName: Pickup
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1473082718
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7568,19 +7422,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1570140792}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1570140794}
-        m_TargetAssemblyTypeName: Item, Assembly-CSharp
-        m_MethodName: Pickup
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1570140792
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7775,19 +7617,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1586666109}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1586666107}
-        m_TargetAssemblyTypeName: Item, Assembly-CSharp
-        m_MethodName: Pickup
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1586666109
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8016,19 +7846,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1627398050}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1627398048}
-        m_TargetAssemblyTypeName: Item, Assembly-CSharp
-        m_MethodName: Pickup
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1627398050
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8628,19 +8446,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1748911018}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1748911016}
-        m_TargetAssemblyTypeName: Item, Assembly-CSharp
-        m_MethodName: Pickup
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1748911018
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8794,19 +8600,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1774082110}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1774082108}
-        m_TargetAssemblyTypeName: Item, Assembly-CSharp
-        m_MethodName: Pickup
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1774082110
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9037,19 +8831,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1874939096}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1874939094}
-        m_TargetAssemblyTypeName: Item, Assembly-CSharp
-        m_MethodName: Pickup
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1874939096
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9309,7 +9091,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PlayerID: 1
   alarmTextBox: {fileID: 1983510064}
-  alarmtext: Ein Gegenstand wurde in eine Box gelegt.
   roomchangeCS: {fileID: 946971866}
   itemID: 0
   inventarFull: 0
@@ -9366,7 +9147,6 @@ MonoBehaviour:
   empty: {fileID: 21300000, guid: 29585e8de9c10704980c5693f4cea0a9, type: 3}
   rememberTextfield: {fileID: 1223903271}
   neutralText: Ich habe keine Erinnerung dazu.
-  rememberCount: 0
   animReminder: {fileID: 165564861}
   animTextBG: {fileID: 1425964384}
 --- !u!222 &1926354243
@@ -9492,19 +9272,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1940483944}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1940483942}
-        m_TargetAssemblyTypeName: Item, Assembly-CSharp
-        m_MethodName: Pickup
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1940483944
 MonoBehaviour:
   m_ObjectHideFlags: 0

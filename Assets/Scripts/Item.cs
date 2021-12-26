@@ -5,39 +5,39 @@ using UnityEngine.UI;
 
 public class Item : MonoBehaviour
 {
-  
-    public int itemID;
+    private Button button;
+    [SerializeField] public int itemID;
 
-    public int posID;
-    public int negID;
+    [SerializeField] public int posID;
+    [SerializeField] public int negID;
 
-    public bool onDesk = false;
-    public bool picked = false;
-    [Header ("RememberTexts")]
-    public string posText;
-    public string negText;
+    [SerializeField] private bool onDesk;
+    [SerializeField] public bool picked;
+    [Header("RememberTexts")]
+    [SerializeField] public string posText;
+    [SerializeField] public string negText;
 
     //Inventar
-  
-    public ItemManager itemManager;
-
-
-   
-
+    [SerializeField] private ItemManager itemManager;
 
     //  ID   [Click] ->  [ ID ]   isPicked   ||      [ ID ]    TT   [ !null? && !full?]  ID ->  onDesk = {ID}  ->  [   ]   -> Alarm für P2   ; [  ]
 
-
-    public void Pickup()
+    private void Start()
     {
-       if (itemManager.inventarFull == false)
+        button = GetComponent<Button>();
+        button.onClick.AddListener(Pickup);
+    }
+
+    private void Pickup()
+    {
+        if (itemManager.inventarFull == false)
         {
             picked = true;
             itemManager.itemID = itemID;
             itemManager.PickedUp();
             itemManager.lastPicked = GetComponent<Item>();
         }
-       else
+        else
         {
             itemManager.lastPicked.picked = false;  //altes Item zurücklegen
             picked = true;
@@ -65,13 +65,4 @@ public class Item : MonoBehaviour
         }
 
     }
-
-
-
-
-
-
-
-
-
 }

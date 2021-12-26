@@ -5,11 +5,10 @@ using UnityEngine.UI;
 
 public class Tutorial : MonoBehaviour
 {
-    public Image TutPfeil;
-    public CanvasGroup TextHintergrund;
-    public GameObject button;
-    public Animator animTextBG;
-
+    [SerializeField] private Image TutPfeil;
+    [SerializeField] private CanvasGroup TextHintergrund;
+    [SerializeField] private GameObject button;
+    [SerializeField] private Animator animTextBG;
 
     public void TutorialEnd()
     {
@@ -17,7 +16,4 @@ public class Tutorial : MonoBehaviour
         animTextBG.SetTrigger("FadeOut");
         button.SetActive(false);
     }
-
-
-
 }

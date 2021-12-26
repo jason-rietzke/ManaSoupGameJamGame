@@ -5,37 +5,36 @@ using UnityEngine.UI;
 
 public class ItemManager : MonoBehaviour
 {
-    private NetworkAPI network = NetworkAPI.Instance;
+    [SerializeField] private NetworkAPI network = NetworkAPI.Instance;
 
-    public int PlayerID = 1;
-    public Text alarmTextBox;
-    public string alarmtext = "Ein Gegenstand wurde in eine Box gelegt.";
-    
-    public Roomchange roomchangeCS;
+    [SerializeField] private int PlayerID = 1;
+    [SerializeField] private Text alarmTextBox;
+    //public string alarmtext = "Ein Gegenstand wurde in eine Box gelegt.";
 
-    public int itemID;
-    public bool inventarFull;
+    [SerializeField] private Roomchange roomchangeCS;
 
-    public Item[] allItems;
-    public Item lastPicked;
+    [SerializeField] public int itemID;
+    [SerializeField] public bool inventarFull;
 
-    public Item boxA_Item;
-    public Image spriteBoxA;
-    public Item boxB_Item;
-    public Image spriteBoxB;
+    [SerializeField] private Item[] allItems;
+    [SerializeField] public Item lastPicked;
+
+    [SerializeField] private Item boxA_Item;
+    [SerializeField] private Image spriteBoxA;
+    [SerializeField] private Item boxB_Item;
+    [SerializeField] private Image spriteBoxB;
 
     //Inventar
-    public Image icon;
-    public Sprite[] itemSprites;
-    public Sprite empty;
+    [SerializeField] private Image icon;
+    [SerializeField] private Sprite[] itemSprites;
+    [SerializeField] private Sprite empty;
 
     //STATUS
-    public Text rememberTextfield;
-    public string neutralText;
-    public int rememberCount = 0;
+    [SerializeField] private Text rememberTextfield;
+    [SerializeField] private string neutralText;
 
-    public Animator animReminder;
-    public Animator animTextBG;
+    [SerializeField] private Animator animReminder;
+    [SerializeField] private Animator animTextBG;
 
 
     private void FixedUpdate()
@@ -169,7 +168,6 @@ public class ItemManager : MonoBehaviour
             StartCoroutine(Wait(10));
             //positiv Audio
             //FMODUnity.RuntimeManager.PlayOneshot(EventRef, GetComponent<Transform>().position);
-            rememberCount++;
             animTextBG.SetTrigger("FadeIn");
             rememberTextfield.text = (boxA_Item.posText + boxB_Item.posText);
             boxA_Item = null;
@@ -186,7 +184,6 @@ public class ItemManager : MonoBehaviour
         {
             StartCoroutine(Wait(10));
             //negativ Audio
-            rememberCount--;
             animTextBG.SetTrigger("FadeIn");
             rememberTextfield.text = (boxA_Item.negText + boxB_Item.negText);
             boxA_Item = null;

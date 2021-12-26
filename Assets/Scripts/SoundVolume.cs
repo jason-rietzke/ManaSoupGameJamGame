@@ -5,31 +5,30 @@ using UnityEngine.UI;
 
 public class SoundVolume : MonoBehaviour
 {
-	public Slider volumeSlider;
+	[SerializeField] private Slider volumeSlider;
 
-    FMOD.Studio.EventInstance seTestEvent;
-    FMOD.Studio.Bus Master;
-    FMOD.Studio.Bus Bgm;
-    FMOD.Studio.Bus Se;
-    float bgmVolume = 0.5f;
-    float seVolume = 0.5f;
-    float masterVolume = 1f;
+	private FMOD.Studio.Bus Master;
+	private FMOD.Studio.Bus Bgm;
+	private FMOD.Studio.Bus Se;
+	private float bgmVolume = 0.5f;
+	private float seVolume = 0.5f;
+	private float masterVolume = 1f;
 
-	void Start()
+	private void Start()
 	{
         Master = FMODUnity.RuntimeManager.GetBus("bus:/Master");
 
 		volumeSlider.onValueChanged.AddListener(delegate { OnSliderValueChanged(); });
 	}
 
-	void Update()
+	private void Update()
 	{
 		Bgm.setVolume(bgmVolume);
         Se.setVolume(seVolume);
         Master.setVolume(masterVolume);
 	}
 
-	public void OnSliderValueChanged()
+	private void OnSliderValueChanged()
 	{
 		bgmVolume = volumeSlider.value;
 		seVolume = volumeSlider.value;
