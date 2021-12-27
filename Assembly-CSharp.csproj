@@ -54,23 +54,24 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Roomchange.cs" />
-    <Compile Include="Assets\Scripts\JoinServerButton.cs" />
+    <Compile Include="Assets\Scripts\UI\JoinServerButton.cs" />
     <Compile Include="Assets\Scripts\CameraAnim.cs" />
+    <Compile Include="Assets\Scripts\Items\PlacementBox.cs" />
     <Compile Include="Assets\Scripts\MessageBoxHandler.cs" />
-    <Compile Include="Assets\Scripts\Item.cs" />
-    <Compile Include="Assets\Scripts\ShowNetworkIdField.cs" />
-    <Compile Include="Assets\Scripts\MenuControl.cs" />
-    <Compile Include="Assets\Scripts\NetworkSandbox.cs" />
-    <Compile Include="Assets\Scripts\SoundVolume.cs" />
-    <Compile Include="Assets\Scripts\Tutorial.cs" />
-    <Compile Include="Assets\Scripts\NetworkAPI.cs" />
-    <Compile Include="Assets\Scripts\NetworkIdInputField.cs" />
-    <Compile Include="Assets\Scripts\ItemManager.cs" />
-    <Compile Include="Assets\Scripts\CreateServerButton.cs" />
+    <Compile Include="Assets\Scripts\Items\Item.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
-    <Compile Include="Assets\Scripts\ItemHolder.cs" />
-    <Compile Include="Assets\Scripts\PlacementBox.cs" />
-    <Compile Include="Assets\Scripts\InventoryManager.cs" />
+    <Compile Include="Assets\Scripts\UI\ShowNetworkIdField.cs" />
+    <Compile Include="Assets\Scripts\UI\MenuControl.cs" />
+    <Compile Include="Assets\Scripts\Networking\NetworkSandbox.cs" />
+    <Compile Include="Assets\Scripts\Items\InventoryManager.cs" />
+    <Compile Include="Assets\Scripts\Items\ItemHolder.cs" />
+    <Compile Include="Assets\Scripts\UI\SoundVolume.cs" />
+    <Compile Include="Assets\Scripts\Tutorial.cs" />
+    <Compile Include="Assets\Scripts\Networking\NetworkAPI.cs" />
+    <Compile Include="Assets\Scripts\UI\NetworkIdInputField.cs" />
+    <Compile Include="Assets\Scripts\Items\ItemManager.cs" />
+    <Compile Include="Assets\Scripts\UI\CreateServerButton.cs" />
+    <Compile Include="Assets\Scripts\SceneAttribute.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

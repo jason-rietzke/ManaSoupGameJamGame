@@ -8,9 +8,9 @@ using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
-    [SerializeField] public Guid Id;
-    [SerializeField] public List<Item> items;
-    private ItemManager itemManager;
+    [SerializeField] public static bool isPlayerOne;
+    [SerializeField] public List<Item> playerItems;
+    [SerializeField] public List<Item> allItems;
     private InventoryManager inventoryManager;
     [SerializeField] private List<PlacementBox> placementBoxes;
 
@@ -21,21 +21,49 @@ public class Player : MonoBehaviour
     [SerializeField] private string neutralText;
     [SerializeField] private Animator animReminder;
     [SerializeField] private Animator animTextBG;
-
-
+    private string placedItemId;
+    private int placedItemPos;
+    private string removedItemId;
+    private int removedItemPos;
 
     private void Start()
     {
-        itemManager = FindObjectOfType<ItemManager>();
+        allItems = GetComponentsInChildren<Item>().ToList();
+        var playerTwoObjects = allItems.Where(i => i.transform.parent.name.Contains("Player 2")).ToList();
+        var playerOneObjects = allItems.Where(i => i.transform.parent.name.Contains("Player 1")).ToList();
+        if (isPlayerOne)
+        {
+            playerItems = playerOneObjects;
+            playerTwoObjects.ForEach(o => o.gameObject.SetActive(false));
+        }
+        else
+        {
+            playerItems = playerTwoObjects;
+            playerOneObjects.ForEach(o => o.gameObject.SetActive(false));
+        }
+
         inventoryManager = GetComponentInChildren<InventoryManager>();
-        items = GetComponentInChildren<ItemHolder>().itemList;
         placementBoxes = FindObjectsOfType<PlacementBox>().ToList();
 
-        items.ForEach(i => i.RegisterOnClick(delegate { inventoryManager.AddItem(i); }));
-        for (int i = 0; i < placementBoxes.Count; i++)
+        playerItems.ForEach(i => i.RegisterOnClick(delegate { inventoryManager.AddItem(i); }));
+        placementBoxes.ForEach(b => b.RegisterOnClick(delegate { OnPlacementBoxClicked(b, b.Id); }));
+
+        NetworkAPI.OnObjectPlaced += OnObjectPlaced;
+        NetworkAPI.OnObjectRemoved += OnObjectRemoved;
+    }
+
+    private void Update()
+    {
+        if(placedItemId != null)
         {
-            var box = placementBoxes.ElementAt(i);
-            box.RegisterOnClick(delegate { OnPlacementBoxClicked(box, i); });
+            ObjectPlaced(placedItemId, placedItemPos);
+            placedItemId = null;
+        }
+
+        if(removedItemId != null)
+        {
+            ObjectRemoved(removedItemId, removedItemPos);
+            removedItemId = null;
         }
     }
 
@@ -47,22 +75,44 @@ public class Player : MonoBehaviour
         {
             temp.onDesk = false;
         }
+
         box.CurrentItem = inventoryManager.currentItem;
-        inventoryManager.currentItem.onDesk = true;
+        if(box.CurrentItem != null)
+        {
+            box.CurrentItem.onDesk = true;
+        }
+        
         inventoryManager.AddItem(temp);
         
     }
 
     public void OnObjectPlaced(string itemId, int itemPos)
     {
+        placedItemId = itemId;
+        placedItemPos = itemPos;
+    }
+
+    private void ObjectPlaced(string itemId, int itemPos)
+    {
+        if (string.IsNullOrEmpty(itemId))
+        {
+            ObjectRemoved(itemId, itemPos);
+            return;
+        }
         var remoteID = int.Parse(itemId);
-        var remoteItem = itemManager.allItems[remoteID];
-        placementBoxes.ElementAt(itemPos).CurrentItem = remoteItem;
+        var remoteItem = allItems[remoteID];
+        placementBoxes.Single(b => b.Id.Equals(itemPos)).CurrentItem = remoteItem;
     }
 
     public void OnObjectRemoved(string itemId, int itemPos)
     {
-        placementBoxes.ElementAt(itemPos).CurrentItem = null;
+        removedItemId = itemId;
+        removedItemPos = itemPos;
+    }
+
+    private void ObjectRemoved(string itemId, int itemPos)
+    {
+        placementBoxes.Single(b => b.Id.Equals(itemPos)).CurrentItem = null;
     }
 
     public void CheckBoxes()

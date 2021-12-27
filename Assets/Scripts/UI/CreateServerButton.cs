@@ -1,24 +1,43 @@
 using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using System.Linq;
+using System.Collections;
 
 public class CreateServerButton : MonoBehaviour
 {
     private Button button;
-    private NetworkAPI network = NetworkAPI.Instance;
+    private NetworkAPI network;
     private MessageBoxHandler messageBox;
     private Button joinServerButton;
+    [SerializeField][Scene] private string initialGameScene;
+    private bool changeInteractable;
+    private bool interactable = true;
+    private bool loadLevelScene = false;
 
     void Start()
     {
+        network = NetworkAPI.Instance;
         button = GetComponent<Button>();
         button.onClick.AddListener(CreateGame);
         messageBox = FindObjectOfType<MessageBoxHandler>();
         joinServerButton = FindObjectOfType<JoinServerButton>().GetComponent<Button>();
+    }
+
+    private void Update()
+    {
+        if (changeInteractable)
+        {
+            joinServerButton.interactable = interactable;
+            changeInteractable = false;
+        }
+
+        if (loadLevelScene)
+        {
+            loadLevelScene = false;
+            StartCoroutine(LoadLevelScene());
+        }
     }
 
     private void OnEnable()
@@ -56,33 +75,49 @@ public class CreateServerButton : MonoBehaviour
         {
             network.CreateServer();
         }
-        catch(Exception e)
+        catch (Exception e)
         {
             messageBox.MessageBoxText = $"Couldn't create a Server";
             Debug.Log($"{messageBox.MessageBoxText}{e.Message}");
         }
-        
     }
 
-	private void OnCreated(string roomId)
+    private void OnCreated(string roomId)
 	{
         messageBox.MessageBoxText = $"Created room: {roomId}";
         Debug.Log(messageBox.MessageBoxText);
-        joinServerButton.interactable = false;
+        interactable = false;
+        changeInteractable = true;
     }
 
     private void OnClosed()
     {
-        joinServerButton.interactable = true;
+        interactable = true;
+        changeInteractable = true;
     }
 
     private void OnStart(string roomId)
     {
-        SceneManager.LoadScene("Raum 1");
-        var scene = SceneManager.GetSceneByName("Raum 1");
-        var root = scene.GetRootGameObjects();
-        root.First().transform.Find("HUDPlayer 2").gameObject.SetActive(false);
-        root.First().transform.Find("Mainscreen P 2").gameObject.SetActive(false);
-        root.First().transform.Find("Main Camera B").gameObject.SetActive(false);
+        loadLevelScene = true;
+    }
+
+    private IEnumerator LoadLevelScene()
+    {
+        Player.isPlayerOne = true;
+        var operation = SceneManager.LoadSceneAsync(initialGameScene);
+        //TODO: WaitWhile
+        while (!operation.isDone)
+        {
+            Debug.Log($"Scene is loading...");
+            yield return new WaitForFixedUpdate();
+        }
+        //var scene = SceneManager.GetSceneByName(initialGameScene);
+        Debug.Log("Scene is loaded: ");
+        //var root = scene.GetRootGameObjects();
+        //root.First()
+        //    .GetComponentsInChildren<Player>()
+        //    .Where(p => !p.isPlayerOne)
+        //    .SingleOrDefault()
+        //    .gameObject.SetActive(false);
     }
 }

@@ -29,7 +29,7 @@ public class NetworkAPI
         }
     }
     
-    private NetworkAPI() {
+    public NetworkAPI() {
         ws = new WebSocket("ws://manajam21.lamacap.dev:80");
 
         ws.OnMessage += (sender, e) =>
@@ -64,7 +64,12 @@ public class NetworkAPI
         
         ws.OnError += (sender, e) =>
         {
-            Debug.Log("Error: " + e.Message);
+            Debug.Log("Error: " + e.Exception);
+        };
+
+        ws.OnClose += (obj, eventArgs) =>
+        {
+            ws.Connect();
         };
 
         ws.Connect();

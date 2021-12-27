@@ -650,6 +650,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 465a978670699f941a01505fec77854f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  initialGameScene: Raum 1
 --- !u!114 &171711362
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4488,6 +4489,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d344ca7b653edd4f8c84572b7005a46, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  initialGameScene: Raum 1
 --- !u!114 &1846557040
 MonoBehaviour:
   m_ObjectHideFlags: 0

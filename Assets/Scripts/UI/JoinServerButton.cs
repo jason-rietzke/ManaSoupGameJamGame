@@ -9,26 +9,44 @@ using System.Linq;
 public class JoinServerButton : MonoBehaviour
 {
     private Button button;
-    private NetworkAPI network = NetworkAPI.Instance;
+    private NetworkAPI network;
     private NetworkIdInputField inputField;
     private MessageBoxHandler messageBox;
     private Button createLobbyButton;
+    [SerializeField][Scene] private string initialGameScene;
+    private bool changeInteractable;
+    private bool interactable;
+    private bool loadLevelScene;
 
     void Start()
     {
+        network = NetworkAPI.Instance;
         button = GetComponent<Button>();
         button.onClick.AddListener(JoinGame);
         inputField = FindObjectOfType<NetworkIdInputField>();
         messageBox = FindObjectOfType<MessageBoxHandler>();
     }
 
+    private void Update()
+    {
+        if (changeInteractable)
+        {
+            createLobbyButton.interactable = interactable;
+            changeInteractable = false;
+        }
+
+        if (loadLevelScene)
+        {
+            loadLevelScene = false;
+            StartCoroutine(LoadLevelScene());
+        }
+    }
 
     private void OnEnable()
     {
         RegisterHandlers();
         createLobbyButton = FindObjectOfType<CreateServerButton>().GetComponent<Button>();
         createLobbyButton.interactable = true;
-
     }
 
     private void OnDisable()
@@ -39,17 +57,17 @@ public class JoinServerButton : MonoBehaviour
 
     public void RegisterHandlers()
     {
-        NetworkAPI.OnClosed += OnWrongId;
+        NetworkAPI.OnClosed += OnRoomNotExist;
         NetworkAPI.OnJoined += OnJoined;
-        NetworkAPI.OnStart += OnGameStart;
+        NetworkAPI.OnStart += OnStart;
         NetworkAPI.OnCreated += OnGameCreated;
     }
 
     public void UnregisterHandlers()
     {
-        NetworkAPI.OnClosed -= OnWrongId;
+        NetworkAPI.OnClosed -= OnRoomNotExist;
         NetworkAPI.OnJoined -= OnJoined;
-        NetworkAPI.OnStart -= OnGameStart;
+        NetworkAPI.OnStart -= OnStart;
         NetworkAPI.OnCreated -= OnGameCreated;
     }
 
@@ -62,28 +80,44 @@ public class JoinServerButton : MonoBehaviour
         }
     }
 
-    private void OnGameStart(string id)
+    private void OnStart(string id)
     {
-        NetworkAPI.OnClosed -= OnWrongId;
-        messageBox.MessageBoxText = "Game startet";
-        Debug.Log(messageBox.MessageBoxText);
-        //TODO: load game
-        SceneManager.LoadScene("Raum 1");
-        var scene = SceneManager.GetSceneByName("Raum 1");
-        var root = scene.GetRootGameObjects();
-        root.First().transform.Find("HUDPlayer 1").gameObject.SetActive(false);
-        root.First().transform.Find("Mainscreen P 1").gameObject.SetActive(false);
-        root.First().transform.Find("Main Camera A").gameObject.SetActive(false);
+        loadLevelScene = true;
     }
 
-	private void OnJoined(string id)
+    private IEnumerator LoadLevelScene()
+    {
+        NetworkAPI.OnClosed -= OnRoomNotExist;
+        messageBox.MessageBoxText = "Game startet";
+        Debug.Log(messageBox.MessageBoxText);
+
+        Player.isPlayerOne = false;
+        var operation = SceneManager.LoadSceneAsync(initialGameScene);
+        while (!operation.isDone)
+        {
+            Debug.Log($"Scene is loading...");
+            yield return new WaitForFixedUpdate();
+        }
+        //var scene = SceneManager.GetSceneByName(initialGameScene);
+        Debug.Log("Scene is loaded: ");
+        //var root = scene.GetRootGameObjects();
+        //root.First()
+        //    .GetComponentsInChildren<Player>()
+        //    .Where(p => p.isPlayerOne)
+        //    .SingleOrDefault()
+        //    .gameObject.SetActive(false);
+    }
+
+
+    private void OnJoined(string id)
 	{
-        createLobbyButton.interactable = false;
+        interactable = false;
+        changeInteractable = true;
         messageBox.MessageBoxText = "Raum beigetreten";
         Debug.Log(messageBox.MessageBoxText);
     }
 
-    private void OnWrongId()
+    private void OnRoomNotExist()
     {
         messageBox.MessageBoxText = "Raum existiert nicht!";
         Debug.Log(messageBox.MessageBoxText);

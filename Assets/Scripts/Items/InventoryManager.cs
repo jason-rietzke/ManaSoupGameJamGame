@@ -13,6 +13,10 @@ public class InventoryManager : MonoBehaviour
     {
         if(item == null)
         {
+            if(currentItem == null)
+            {
+                return;
+            }
             RemoveItem();
             return;
         }
