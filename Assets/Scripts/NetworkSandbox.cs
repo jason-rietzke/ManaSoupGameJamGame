@@ -31,11 +31,11 @@ public class NetworkSandbox : MonoBehaviour
             Debug.Log("Server started");
         };
 
-        NetworkAPI.OnObjectPlaced += (objId) => {
+        NetworkAPI.OnObjectPlaced += (objId, objPos) => {
             Debug.Log("Object placed");
         };
         
-        NetworkAPI.OnObjectRemoved += (objId) => {
+        NetworkAPI.OnObjectRemoved += (objId, objPos) => {
             Debug.Log("Object removed");
         };
         

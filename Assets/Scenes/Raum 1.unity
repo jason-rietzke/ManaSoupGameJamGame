@@ -321,13 +321,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemID: 10
-  posID: 0
-  negID: 0
+  positiveMemoryID: 0
+  negativeMemoryID: 0
   onDesk: 0
   picked: 0
-  posText: 
-  negText: 
-  itemManager: {fileID: 564413556}
+  positiveMemoryText: 
+  negativeMemoryText: 
 --- !u!114 &52544609
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -627,19 +626,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemID: 5
-  posID: 17
-  negID: 18
+  positiveMemoryID: 0
+  negativeMemoryID: 0
   onDesk: 0
   picked: 0
-  posText: "\"G\xE4nsebl\xFCmchen! Ich erinnere mich, dass ich diese Blumen immer
-    stundenlang be trachten konnte. Sie wirken so unschuldig\" \"Vorallem G\xE4nsebl\xFCmchen,
-    Anneliese. Du liebst diese Blumen, weil sie f\xFCr Unschuld und Reinheit stehen
-    und unsere Ehe so sehr widerspiegeln.\""
-  negText: "\"Meine fehlende Erinnerung. Ich f\xFChle mich wie diese arme Blume.
-    Krank und verwelkt. Warum wei\xDF ich nicht, was ich zuletzt gemacht habe?\"
-    \"Deine Krankheit, Annelise, sie wird nie wieder weg gehen. Wir k\xF6nnen nur
-    hoffen, dass sie nicht immer schneller voran schreitet.\""
-  itemManager: {fileID: 1926354242}
+  positiveMemoryText: 
+  negativeMemoryText: 
 --- !u!225 &102447292
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -869,20 +861,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemID: 3
-  posID: 13
-  negID: 14
+  positiveMemoryID: 0
+  negativeMemoryID: 0
   onDesk: 0
   picked: 0
-  posText: "\"Dieser Teddyb\xE4r sieht selbstgestrickt aus. Ich denke, ich habe ihn
-    gemacht. Es waren meine ersten Strickversuche.\" \"Ich erinnere mich nur zu gut.
-    Wir hatten Streit, weil du mir deine Krankheit verheimlicht hast und als ich
-    dir nachgeeilt bin, bin ich gest\xFCrzt und habe mir den Arm gebrochen. Du hast
-    das erste Mal in deinem Leben gestrickt und mir diesen wundervollen Teddyb\xE4r
-    gemacht.\""
-  negText: "\"Warum sind in dieser Keksdose Tabletten? Hat sie je mand versteckt?\"
-    \"Diese Krankheit. Warum hast du sie mir so lange verheimlicht, Annelise? Viel
-    leicht h\xE4tten die \xC4rzte uns hel fen k\xF6nnen?\""
-  itemManager: {fileID: 1926354242}
+  positiveMemoryText: 
+  negativeMemoryText: 
 --- !u!225 &156799153
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -1320,7 +1304,7 @@ Transform:
   - {fileID: 232917641}
   - {fileID: 1696278216}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &232917639
 GameObject:
@@ -1435,7 +1419,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 946971863}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
@@ -1671,20 +1655,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemID: 0
-  posID: 7
-  negID: 8
+  positiveMemoryID: 0
+  negativeMemoryID: 0
   onDesk: 0
   picked: 0
-  posText: "\"Ich bin verheiratet? Oder war ich es? Aber mit wem? Ich... ich erinnere
-    mich nicht ...\"   \"Ein Foto von Anneli\x02se im Hochzeitskleid. Ein wun\x02dervoller,
-    warmer Sommertag. Wie gern ich diesen Tag zusam men mit Annelise noch einmal
-    erleben w\xFCrde.\""
-  negText: "\"Sieht aus wie ein Gl\xFCckwunschschreiben ... Was ist das? Wer schreibt
-    etwas so ... Geh\xE4ssiges in ein Gl\xFCckwunsch\x02schreiben?\"  \"Das hat uns
-    sehr mit\x02genommen. Wir haben uns im\x02mer gefragt, wer dieses gemeine Gl\xFCckwunschschreiben
-    verfasst hat und es hat uns lange Zeit keine Ruhe gelassen. Da wollte uns jemand
-    unser Gl\xFCck nicht g\xF6nnen.\u201C"
-  itemManager: {fileID: 1926354242}
+  positiveMemoryText: 
+  negativeMemoryText: 
 --- !u!225 &276296614
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -1843,7 +1819,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &302959433
 GameObject:
@@ -1927,6 +1903,59 @@ Transform:
   m_Father: {fileID: 1678221305}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &362843916
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 362843918}
+  - component: {fileID: 362843917}
+  m_Layer: 0
+  m_Name: Player 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!114 &362843917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 362843916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fa6a21bbe44c5148b081711c406e715, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  items: []
+  placementBoxes: []
+  alarmTextBox: {fileID: 1109807907}
+  rememberTextfield: {fileID: 1223903271}
+  neutralText: Ich habe keine Erinnerung dazu.
+  animReminder: {fileID: 165564861}
+  animTextBG: {fileID: 1425964384}
+--- !u!4 &362843918
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 362843916}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 795289777}
+  - {fileID: 2118775350}
+  - {fileID: 430729021}
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &387142453
 GameObject:
   m_ObjectHideFlags: 0
@@ -1992,13 +2021,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemID: 12
-  posID: 0
-  negID: 0
+  positiveMemoryID: 0
+  negativeMemoryID: 0
   onDesk: 0
   picked: 0
-  posText: 
-  negText: 
-  itemManager: {fileID: 564413556}
+  positiveMemoryText: 
+  negativeMemoryText: 
 --- !u!114 &387142457
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2097,12 +2125,12 @@ GameObject:
   - component: {fileID: 430729016}
   - component: {fileID: 430729015}
   m_Layer: 0
-  m_Name: Main Camera B
+  m_Name: Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!95 &430729015
 Animator:
   serializedVersion: 3
@@ -2270,12 +2298,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 430729014}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_Father: {fileID: 362843918}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &504732720
 GameObject:
@@ -2424,13 +2452,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemID: 15
-  posID: 0
-  negID: 0
+  positiveMemoryID: 0
+  negativeMemoryID: 0
   onDesk: 0
   picked: 0
-  posText: 
-  negText: 
-  itemManager: {fileID: 564413556}
+  positiveMemoryText: 
+  negativeMemoryText: 
 --- !u!114 &517288774
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2834,123 +2861,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &564413554
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 564413555}
-  - component: {fileID: 564413557}
-  - component: {fileID: 564413556}
-  m_Layer: 0
-  m_Name: Inventar System B
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &564413555
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 564413554}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0, y: 0, z: 0}
-  m_Children: []
-  m_Father: {fileID: 1265304373}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -281.27402, y: -240.61}
-  m_SizeDelta: {x: -540, y: -380}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &564413556
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 564413554}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 28845e31427222b4eb96870729fa0a48, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PlayerID: 2
-  alarmTextBox: {fileID: 1109807907}
-  roomchangeCS: {fileID: 1265304376}
-  itemID: 0
-  inventarFull: 0
-  allItems:
-  - {fileID: 276296613}
-  - {fileID: 1570140794}
-  - {fileID: 1006233707}
-  - {fileID: 156799152}
-  - {fileID: 1513655373}
-  - {fileID: 102447291}
-  - {fileID: 664318386}
-  - {fileID: 1774082108}
-  - {fileID: 737053170}
-  - {fileID: 1748911016}
-  - {fileID: 52544608}
-  - {fileID: 578578057}
-  - {fileID: 387142456}
-  - {fileID: 1473082716}
-  - {fileID: 1874939094}
-  - {fileID: 517288773}
-  - {fileID: 1627398048}
-  - {fileID: 1940483942}
-  - {fileID: 600506712}
-  - {fileID: 1586666107}
-  - {fileID: 1182447326}
-  lastPicked: {fileID: 0}
-  boxA_Item: {fileID: 0}
-  spriteBoxA: {fileID: 896893129}
-  boxB_Item: {fileID: 0}
-  spriteBoxB: {fileID: 1977982796}
-  icon: {fileID: 788605758}
-  itemSprites:
-  - {fileID: 897537700207405883, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: -900388353898544096, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: 6528537594174244143, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: 3474433728949220972, guid: d72701ae36acb0246bd1b66ff0b49e99, type: 3}
-  - {fileID: -267747815022275902, guid: c8663f7ced62e554dbcaaff9082efb58, type: 3}
-  - {fileID: 2148286407487564988, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: -3622580316094411242, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: 1819930522433566440, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: -5076371297752297010, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: -4199441379150714077, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: -6780820388709133744, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: -8485426031619221393, guid: d72701ae36acb0246bd1b66ff0b49e99, type: 3}
-  - {fileID: 5925984427649751649, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: 5413621456118621958, guid: c8663f7ced62e554dbcaaff9082efb58, type: 3}
-  - {fileID: 736835182445106415, guid: d72701ae36acb0246bd1b66ff0b49e99, type: 3}
-  - {fileID: 8390515853399397782, guid: c8663f7ced62e554dbcaaff9082efb58, type: 3}
-  - {fileID: -8035157795440169920, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: 746441273070501047, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: 9109391283709854398, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: 8171576568647462591, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: 8150543190793034030, guid: d72701ae36acb0246bd1b66ff0b49e99, type: 3}
-  empty: {fileID: 21300000, guid: 29585e8de9c10704980c5693f4cea0a9, type: 3}
-  rememberTextfield: {fileID: 1223903271}
-  neutralText: Ich habe keine Erinnerung dazu.
-  animReminder: {fileID: 165564861}
-  animTextBG: {fileID: 1425964384}
---- !u!222 &564413557
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 564413554}
-  m_CullTransparentMesh: 1
 --- !u!1 &578578054
 GameObject:
   m_ObjectHideFlags: 0
@@ -3016,13 +2926,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemID: 11
-  posID: 0
-  negID: 0
+  positiveMemoryID: 0
+  negativeMemoryID: 0
   onDesk: 0
   picked: 0
-  posText: 
-  negText: 
-  itemManager: {fileID: 564413556}
+  positiveMemoryText: 
+  negativeMemoryText: 
 --- !u!114 &578578058
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3170,13 +3079,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemID: 18
-  posID: 0
-  negID: 0
+  positiveMemoryID: 0
+  negativeMemoryID: 0
   onDesk: 0
   picked: 0
-  posText: 
-  negText: 
-  itemManager: {fileID: 564413556}
+  positiveMemoryText: 
+  negativeMemoryText: 
 --- !u!114 &600506713
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3488,23 +3396,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemID: 6
-  posID: 19
-  negID: 20
+  positiveMemoryID: 0
+  negativeMemoryID: 0
   onDesk: 0
   picked: 0
-  posText: "\"Meine Brille! Ich glaube, die habe ich beim Kreuzwortr\xE4tsel immer
-    ben\xF6tigt.\" \"Deine erste Brille. Du hast sie nur f\xFCr das Kreuzwortr\xE4tsel
-    benutzt, denn das hast du geliebt und es hat dich sehr ge\xE4rgert, als deine
-    Augen schlechter wurden. Ich habe mir dann auch eine Brille gekauft, damit du
-    nicht alleine mit Brille kreuzwortr\xE4tseln musst.\u201C Deinen liebevollen
-    Blick, als du gesehen hast, dass ich mir deswegen eine Brille zugelegt habe,
-    nur f\xFCr dich, den werde ich nie vergessen.\""
-  negText: "\"Ein Radio und eine Zeitung. Ich wei\xDF nicht einmal, ob ich lieber
-    die Zeitung lese oder lieber die Nachrichten anh\xF6re.\" \"Wir waren zusammen
-    immer gl\xFCcklich. Aber es gab auch Tage, an denen wir in den Alltag hinein
-    gelebt haben. Deine Krankheit hat mich daran erinnert, wie sehr ich dich liebe
-    und sch\xE4tze. Ich bereue es, dir das nicht jeden einzelnen Tag gezeigt zu haben.\""
-  itemManager: {fileID: 1926354242}
+  positiveMemoryText: 
+  negativeMemoryText: 
 --- !u!225 &664318387
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -3664,13 +3561,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemID: 8
-  posID: 0
-  negID: 0
+  positiveMemoryID: 0
+  negativeMemoryID: 0
   onDesk: 0
   picked: 0
-  posText: 
-  negText: 
-  itemManager: {fileID: 564413556}
+  positiveMemoryText: 
+  negativeMemoryText: 
 --- !u!114 &737053171
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3753,6 +3649,51 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 737053167}
   m_CullTransparentMesh: 1
+--- !u!1 &782434013
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 782434015}
+  - component: {fileID: 782434014}
+  m_Layer: 0
+  m_Name: ManagerObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &782434014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 782434013}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28845e31427222b4eb96870729fa0a48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  players: []
+  allItems: []
+--- !u!4 &782434015
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 782434013}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 41.852966, y: -3.3383408, z: 1.5029655}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &788605757
 GameObject:
   m_ObjectHideFlags: 0
@@ -3840,13 +3781,14 @@ GameObject:
   - component: {fileID: 795289776}
   - component: {fileID: 795289775}
   - component: {fileID: 795289774}
+  - component: {fileID: 795289778}
   m_Layer: 0
-  m_Name: HUDPlayer 2
+  m_Name: Items
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &795289774
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3933,14 +3875,27 @@ RectTransform:
   - {fileID: 600506710}
   - {fileID: 1586666105}
   - {fileID: 1182447324}
-  m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_Father: {fileID: 362843918}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 40, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &795289778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 795289773}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76035b5f12bae4a48a97cb84f9aeefc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemList: []
 --- !u!1 &795636523
 GameObject:
   m_ObjectHideFlags: 0
@@ -4025,7 +3980,7 @@ Transform:
   - {fileID: 855445699}
   - {fileID: 822539050}
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &807343621
 GameObject:
@@ -4197,7 +4152,7 @@ GameObject:
   - component: {fileID: 832122846}
   - component: {fileID: 832122845}
   m_Layer: 5
-  m_Name: Mainscreen P 1
+  m_Name: Mainscreen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4215,7 +4170,7 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 946971863}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1853688999}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -4378,7 +4333,7 @@ GameObject:
   - component: {fileID: 896893130}
   - component: {fileID: 896893129}
   m_Layer: 5
-  m_Name: BoxPosA
+  m_Name: Item Pos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4472,7 +4427,7 @@ RectTransform:
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1265304373}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
@@ -4655,7 +4610,7 @@ Transform:
   - {fileID: 1121977155}
   - {fileID: 285870306}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &942533228
 GameObject:
@@ -4771,7 +4726,6 @@ RectTransform:
   m_Children:
   - {fileID: 1983510067}
   - {fileID: 1868615028}
-  - {fileID: 1926354241}
   - {fileID: 1274444981}
   - {fileID: 251490166}
   m_Father: {fileID: 832122844}
@@ -4846,7 +4800,7 @@ GameObject:
   - component: {fileID: 973869213}
   - component: {fileID: 973869212}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: AudioObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4889,7 +4843,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &976785164
 GameObject:
@@ -5108,22 +5062,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemID: 2
-  posID: 11
-  negID: 12
+  positiveMemoryID: 0
+  negativeMemoryID: 0
   onDesk: 0
   picked: 0
-  posText: "\"Ein Sparschaf. Moment... der Schl\xFCssel ist direkt darunter ... ich
-    erinnere mich ... wir haben das Sparschaf als Symbol und Erinnerung an unser
-    hart verdientes Geld f\xFCr den Kauf unseres Hauses aufgestellt. Ich ... Ich
-    bin in unserem Haus...\" \"Das Sparschaf war deine Idee. Ein Sparschwein fandest
-    du zu allt\xE4glich und du hast dein Lieblingsschaf in deiner Kindheit, das du
-    mit deinem Taschengeld von deinem Vater abgekauft hast, geliebt. Es war nur zu
-    naheliegend, dass wir uns das Sparschaf als Symbolik aufstellen.\""
-  negText: "\"Mein Kopf ... ich kann mich an so Vieles nicht er innern. Was ist passiert?
-    Hatte ich einen Unfall?\"  \"Ach meine Annelise. Wie sehr ich es mir w\xFCnschte,
-    dass du dich nochmal f\xFCr einen Tag an unsere sch\xF6nen Momen te erinnern
-    kannst.\""
-  itemManager: {fileID: 1926354242}
+  positiveMemoryText: 
+  negativeMemoryText: 
 --- !u!225 &1006233708
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -5464,13 +5408,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemID: 20
-  posID: 0
-  negID: 0
+  positiveMemoryID: 0
+  negativeMemoryID: 0
   onDesk: 0
   picked: 0
-  posText: 
-  negText: 
-  itemManager: {fileID: 564413556}
+  positiveMemoryText: 
+  negativeMemoryText: 
 --- !u!114 &1182447327
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5665,7 +5608,6 @@ RectTransform:
   m_Children:
   - {fileID: 1109807905}
   - {fileID: 1279715742}
-  - {fileID: 564413555}
   - {fileID: 915203599}
   - {fileID: 1500565593}
   m_Father: {fileID: 2118775350}
@@ -5842,7 +5784,7 @@ RectTransform:
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 946971863}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
@@ -6036,6 +5978,7 @@ GameObject:
   - component: {fileID: 1279715742}
   - component: {fileID: 1279715744}
   - component: {fileID: 1279715743}
+  - component: {fileID: 1279715745}
   m_Layer: 5
   m_Name: Inventar
   m_TagString: Untagged
@@ -6102,6 +6045,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1279715741}
   m_CullTransparentMesh: 1
+--- !u!114 &1279715745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1279715741}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c22a27db4e7c4ee429ce5d535521cebb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  emptyImage: {fileID: 21300000, guid: 29585e8de9c10704980c5693f4cea0a9, type: 3}
+  icon: {fileID: 788605758}
+  hasItem: 0
+  currentItem: {fileID: 0}
 --- !u!1 &1281284830
 GameObject:
   m_ObjectHideFlags: 0
@@ -6114,8 +6073,9 @@ GameObject:
   - component: {fileID: 1281284834}
   - component: {fileID: 1281284833}
   - component: {fileID: 1281284832}
+  - component: {fileID: 1281284835}
   m_Layer: 0
-  m_Name: HUDPlayer 1
+  m_Name: Items
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6139,7 +6099,7 @@ RectTransform:
   - {fileID: 1513655369}
   - {fileID: 102447287}
   - {fileID: 664318382}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1853688999}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -6208,6 +6168,19 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 1
   m_TargetDisplay: 0
+--- !u!114 &1281284835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1281284830}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76035b5f12bae4a48a97cb84f9aeefc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemList: []
 --- !u!1 &1335217961
 GameObject:
   m_ObjectHideFlags: 0
@@ -6512,8 +6485,9 @@ GameObject:
   - component: {fileID: 1463644297}
   - component: {fileID: 1463644296}
   - component: {fileID: 1463644295}
+  - component: {fileID: 1463644298}
   m_Layer: 5
-  m_Name: Box B
+  m_Name: Placement Box Player 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6583,7 +6557,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 564413556}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: ItemManager, Assembly-CSharp
         m_MethodName: BoxClicked_B
         m_Mode: 1
@@ -6633,6 +6607,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1463644293}
   m_CullTransparentMesh: 1
+--- !u!114 &1463644298
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1463644293}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d819f29ad9e7ddd47b2b949a508ca4fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EmptyImage: {fileID: 21300000, guid: 29585e8de9c10704980c5693f4cea0a9, type: 3}
 --- !u!1 &1473082713
 GameObject:
   m_ObjectHideFlags: 0
@@ -6698,13 +6685,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemID: 13
-  posID: 0
-  negID: 0
+  positiveMemoryID: 0
+  negativeMemoryID: 0
   onDesk: 0
   picked: 0
-  posText: 
-  negText: 
-  itemManager: {fileID: 564413556}
+  positiveMemoryText: 
+  negativeMemoryText: 
 --- !u!114 &1473082717
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6982,7 +6968,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1265304373}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
@@ -7312,21 +7298,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemID: 4
-  posID: 15
-  negID: 16
+  positiveMemoryID: 0
+  negativeMemoryID: 0
   onDesk: 0
   picked: 0
-  posText: "\"Ich glaube, ich habe immer viel und gerne gekocht. Diese Handschuhe
-    ... habe ich die nicht von jemandem ge schenkt bekommen?\u201C  \u201EDeine Lieblingstopf
-    handschuhe. Die habe ich dir gekauft, weil du dich st\xE4ndig \xFCber den Topf
-    aufgeregt hast, der an den Griffen hei\xDF wurde. Aber du liebtest diesen Topf
-    und wolltest keinen anderen.\""
-  negText: "\"Meine Hand schmerzt. Sie ist knallrot. Habe ich sie mir verbrannt?\"
-    \"Die Krankheit hat nicht nur dazu gef\xFChrt, dass du immer mehr die Erinnerung
-    an die Menschen um dich herum vergessen hast, sondern auch an Dinge wie hei\xDFe
-    Herdplatten nicht mehr gedacht hast. Erst vor Kurzem hast du dich so schlimm
-    verbrannt.\""
-  itemManager: {fileID: 1926354242}
+  positiveMemoryText: 
+  negativeMemoryText: 
 --- !u!225 &1513655374
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -7474,22 +7451,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemID: 1
-  posID: 9
-  negID: 10
+  positiveMemoryID: 0
+  negativeMemoryID: 0
   onDesk: 0
   picked: 0
-  posText: "\"Eine Muschel... Hab ich diese in einem Urlaub ge sammelt? War ... war
-    ich nicht irgendwann einmal auf einer Weltreise?\"   \"Die Muschel, die ich f\xFCr
-    Annelise in unseren Flitter wochen ertaucht habe. Wir ha ben sie spontan zu einer
-    kleinen Weltreise erweitert. Das waren wirklich aufregende, unver gleichlich
-    sch\xF6ne Wochen.\""
-  negText: "\"Die Statue einer Qualle? Wer sammelt eine sol\x02che Statue? Mir ist
-    unwohl, wenn ich diesed betrachte.\"  \"Warum du diese Quallenstatue gekauft
-    hast, habe ich nie verstanden.. Du hast die\x02se im Souvenirshop gesehen, nachdem
-    du aufgrund der aller\x02gischen Reaktion auf die Qualle im Krankenhaus behandelt
-    wur\x02dest und wolltest sie wohl als Erinnerung an diese schmerz\x02hafte Begegnung
-    zu hause aufstellen\""
-  itemManager: {fileID: 1926354242}
+  positiveMemoryText: 
+  negativeMemoryText: 
 --- !u!225 &1570140795
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -7567,13 +7534,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemID: 19
-  posID: 0
-  negID: 0
+  positiveMemoryID: 0
+  negativeMemoryID: 0
   onDesk: 0
   picked: 0
-  posText: 
-  negText: 
-  itemManager: {fileID: 564413556}
+  positiveMemoryText: 
+  negativeMemoryText: 
 --- !u!114 &1586666108
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7796,13 +7762,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemID: 16
-  posID: 0
-  negID: 0
+  positiveMemoryID: 0
+  negativeMemoryID: 0
   onDesk: 0
   picked: 0
-  posText: 
-  negText: 
-  itemManager: {fileID: 564413556}
+  positiveMemoryText: 
+  negativeMemoryText: 
 --- !u!114 &1627398049
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7901,7 +7866,7 @@ GameObject:
   - component: {fileID: 1640957007}
   - component: {fileID: 1640957006}
   m_Layer: 0
-  m_Name: Main Camera A
+  m_Name: Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7965,11 +7930,11 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1640957002}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 40, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1853688999}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &1640957006
@@ -8168,7 +8133,7 @@ Transform:
   - {fileID: 1384503327}
   - {fileID: 66935304}
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1696278214
 GameObject:
@@ -8396,13 +8361,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemID: 9
-  posID: 0
-  negID: 0
+  positiveMemoryID: 0
+  negativeMemoryID: 0
   onDesk: 0
   picked: 0
-  posText: 
-  negText: 
-  itemManager: {fileID: 564413556}
+  positiveMemoryText: 
+  negativeMemoryText: 
 --- !u!114 &1748911017
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8550,13 +8514,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemID: 7
-  posID: 0
-  negID: 0
+  positiveMemoryID: 0
+  negativeMemoryID: 0
   onDesk: 0
   picked: 0
-  posText: 
-  negText: 
-  itemManager: {fileID: 564413556}
+  positiveMemoryText: 
+  negativeMemoryText: 
 --- !u!114 &1774082109
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8639,6 +8602,59 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1774082105}
   m_CullTransparentMesh: 1
+--- !u!1 &1853688998
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1853688999}
+  - component: {fileID: 1853689000}
+  m_Layer: 0
+  m_Name: Player 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1853688999
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1853688998}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1281284831}
+  - {fileID: 832122844}
+  - {fileID: 1640957005}
+  m_Father: {fileID: 0}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1853689000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1853688998}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fa6a21bbe44c5148b081711c406e715, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  items: []
+  placementBoxes: []
+  alarmTextBox: {fileID: 1983510064}
+  rememberTextfield: {fileID: 1223903271}
+  neutralText: Ich habe keine Erinnerung dazu.
+  animReminder: {fileID: 165564861}
+  animTextBG: {fileID: 1425964384}
 --- !u!1 &1868615027
 GameObject:
   m_ObjectHideFlags: 0
@@ -8650,6 +8666,7 @@ GameObject:
   - component: {fileID: 1868615028}
   - component: {fileID: 1868615030}
   - component: {fileID: 1868615029}
+  - component: {fileID: 1868615031}
   m_Layer: 5
   m_Name: Inventar
   m_TagString: Untagged
@@ -8716,6 +8733,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1868615027}
   m_CullTransparentMesh: 1
+--- !u!114 &1868615031
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1868615027}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c22a27db4e7c4ee429ce5d535521cebb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  emptyImage: {fileID: 21300000, guid: 29585e8de9c10704980c5693f4cea0a9, type: 3}
+  icon: {fileID: 2085536254}
+  hasItem: 0
+  currentItem: {fileID: 0}
 --- !u!1 &1874939091
 GameObject:
   m_ObjectHideFlags: 0
@@ -8781,13 +8814,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemID: 14
-  posID: 0
-  negID: 0
+  positiveMemoryID: 0
+  negativeMemoryID: 0
   onDesk: 0
   picked: 0
-  posText: 
-  negText: 
-  itemManager: {fileID: 564413556}
+  positiveMemoryText: 
+  negativeMemoryText: 
 --- !u!114 &1874939095
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9038,125 +9070,8 @@ Transform:
   - {fileID: 713511854}
   - {fileID: 1483590088}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1926354240
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1926354241}
-  - component: {fileID: 1926354243}
-  - component: {fileID: 1926354242}
-  m_Layer: 0
-  m_Name: Inventar System A
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1926354241
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1926354240}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 1.6999999}
-  m_LocalScale: {x: 0.01, y: 0.01, z: 1}
-  m_Children: []
-  m_Father: {fileID: 946971863}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -281.27344, y: -240.60938}
-  m_SizeDelta: {x: -540, y: -380}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1926354242
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1926354240}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 28845e31427222b4eb96870729fa0a48, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PlayerID: 1
-  alarmTextBox: {fileID: 1983510064}
-  roomchangeCS: {fileID: 946971866}
-  itemID: 0
-  inventarFull: 0
-  allItems:
-  - {fileID: 276296613}
-  - {fileID: 1570140794}
-  - {fileID: 1006233707}
-  - {fileID: 156799152}
-  - {fileID: 1513655373}
-  - {fileID: 102447291}
-  - {fileID: 664318386}
-  - {fileID: 1774082108}
-  - {fileID: 737053170}
-  - {fileID: 1748911016}
-  - {fileID: 52544608}
-  - {fileID: 578578057}
-  - {fileID: 387142456}
-  - {fileID: 1473082716}
-  - {fileID: 1874939094}
-  - {fileID: 517288773}
-  - {fileID: 1627398048}
-  - {fileID: 1940483942}
-  - {fileID: 600506712}
-  - {fileID: 1586666107}
-  - {fileID: 1182447326}
-  lastPicked: {fileID: 0}
-  boxA_Item: {fileID: 0}
-  spriteBoxA: {fileID: 896893129}
-  boxB_Item: {fileID: 0}
-  spriteBoxB: {fileID: 1977982796}
-  icon: {fileID: 2085536254}
-  itemSprites:
-  - {fileID: 897537700207405883, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: -900388353898544096, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: 6528537594174244143, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: 3474433728949220972, guid: d72701ae36acb0246bd1b66ff0b49e99, type: 3}
-  - {fileID: -267747815022275902, guid: c8663f7ced62e554dbcaaff9082efb58, type: 3}
-  - {fileID: 2148286407487564988, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: -3622580316094411242, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: 1819930522433566440, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: -5076371297752297010, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: -4199441379150714077, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: -6780820388709133744, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: -8485426031619221393, guid: d72701ae36acb0246bd1b66ff0b49e99, type: 3}
-  - {fileID: 5925984427649751649, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: 5413621456118621958, guid: c8663f7ced62e554dbcaaff9082efb58, type: 3}
-  - {fileID: 736835182445106415, guid: d72701ae36acb0246bd1b66ff0b49e99, type: 3}
-  - {fileID: 8390515853399397782, guid: c8663f7ced62e554dbcaaff9082efb58, type: 3}
-  - {fileID: -8035157795440169920, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: 746441273070501047, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: 9109391283709854398, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: 8171576568647462591, guid: 7b27fafc9ba5ec741af9322e85bb49e3, type: 3}
-  - {fileID: 8150543190793034030, guid: d72701ae36acb0246bd1b66ff0b49e99, type: 3}
-  empty: {fileID: 21300000, guid: 29585e8de9c10704980c5693f4cea0a9, type: 3}
-  rememberTextfield: {fileID: 1223903271}
-  neutralText: Ich habe keine Erinnerung dazu.
-  animReminder: {fileID: 165564861}
-  animTextBG: {fileID: 1425964384}
---- !u!222 &1926354243
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1926354240}
-  m_CullTransparentMesh: 1
 --- !u!1 &1940483939
 GameObject:
   m_ObjectHideFlags: 0
@@ -9222,13 +9137,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemID: 17
-  posID: 0
-  negID: 0
+  positiveMemoryID: 0
+  negativeMemoryID: 0
   onDesk: 0
   picked: 0
-  posText: 
-  negText: 
-  itemManager: {fileID: 564413556}
+  positiveMemoryText: 
+  negativeMemoryText: 
 --- !u!114 &1940483943
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9323,7 +9237,7 @@ GameObject:
   - component: {fileID: 1977982797}
   - component: {fileID: 1977982796}
   m_Layer: 5
-  m_Name: BoxPosB
+  m_Name: Item Pos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9663,7 +9577,7 @@ RectTransform:
   - {fileID: 1425964380}
   - {fileID: 165564860}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -9682,8 +9596,9 @@ GameObject:
   - component: {fileID: 2075318028}
   - component: {fileID: 2075318027}
   - component: {fileID: 2075318026}
+  - component: {fileID: 2075318029}
   m_Layer: 5
-  m_Name: Box A
+  m_Name: Placement Box Player 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9752,19 +9667,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2075318027}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1926354242}
-        m_TargetAssemblyTypeName: ItemManager, Assembly-CSharp
-        m_MethodName: BoxClicked_A
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &2075318027
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9803,6 +9706,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2075318024}
   m_CullTransparentMesh: 1
+--- !u!114 &2075318029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2075318024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d819f29ad9e7ddd47b2b949a508ca4fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EmptyImage: {fileID: 21300000, guid: 29585e8de9c10704980c5693f4cea0a9, type: 3}
 --- !u!1 &2085536252
 GameObject:
   m_ObjectHideFlags: 0
@@ -9891,12 +9807,12 @@ GameObject:
   - component: {fileID: 2118775348}
   - component: {fileID: 2118775347}
   m_Layer: 5
-  m_Name: Mainscreen P 2
+  m_Name: Mainscreen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &2118775347
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9970,8 +9886,8 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 1265304373}
-  m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_Father: {fileID: 362843918}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}

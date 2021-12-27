@@ -9,8 +9,8 @@ public class NetworkAPI
     public static event Action <string> OnStart;
     public static event Action OnClosed;
     
-    public static event Action <string> OnObjectPlaced;
-    public static event Action <string> OnObjectRemoved;
+    public static event Action <string, int> OnObjectPlaced;
+    public static event Action <string, int> OnObjectRemoved;
     
     private WebSocket ws;
     private string roomID;
@@ -54,10 +54,10 @@ public class NetworkAPI
                     break;
                 
                 case "objectPlaced":
-                    OnObjectPlaced?.Invoke(data.itemID);
+                    OnObjectPlaced?.Invoke(data.itemID, data.itemPos);
                     break;
                 case "objectRemoved":
-                    OnObjectRemoved?.Invoke(data.itemID);
+                    OnObjectRemoved?.Invoke(data.itemID, data.itemPos);
                     break;
             }
         };
@@ -89,21 +89,23 @@ public class NetworkAPI
         }));
     }
 
-    public void PlaceObject(string itemID) {
+    public void PlaceObject(string itemID, int itemPos) {
         ws.Send(JsonUtility.ToJson(new ServerData
         {
             type = "placeObject",
             roomID = roomID,
-            itemID = itemID
+            itemID = itemID,
+            itemPos = itemPos
         }));
     }
     
-    public void RemoveObject(string itemID) {
+    public void RemoveObject(string itemID, int itemPos) {
         ws.Send(JsonUtility.ToJson(new ServerData
         {
             type = "removeObject",
             roomID = roomID,
-            itemID = itemID
+            itemID = itemID,
+            itemPos = itemPos
         }));
     }
     
@@ -112,6 +114,7 @@ public class NetworkAPI
         public string type;
         public string roomID;
         public string itemID;
+        public int itemPos;
     }
     
 }
